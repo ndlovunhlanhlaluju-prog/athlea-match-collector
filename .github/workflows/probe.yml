@@ -1,6 +1,8 @@
-name: Test RBTV cloud collection
+name: Sync women's match links
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '7,22,37,52 * * * *'
 permissions:
   contents: read
 concurrency:
@@ -9,7 +11,7 @@ concurrency:
 jobs:
   probe:
     runs-on: ubuntu-22.04
-    timeout-minutes: 10
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -29,3 +31,22 @@ jobs:
           path: runtime/output/*.json
           retention-days: 3
           if-no-files-found: warn
+  publish:
+    needs: probe
+    runs-on: ubuntu-22.04
+    timeout-minutes: 2
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - uses: actions/download-artifact@v4
+        with:
+          name: athlea-cloud-probe
+          path: runtime/output
+      - name: Publish fresh women-only fixture feed
+        run: node collector.mjs --publish
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
