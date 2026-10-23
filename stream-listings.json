@@ -1,34 +1,10 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-23T19:35:06.535Z",
-  "lastSuccessfulAt": "2026-10-23T19:35:06.535Z",
+  "checkedAt": "2026-10-23T22:23:46.722Z",
+  "lastSuccessfulAt": "2026-10-23T22:23:46.722Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": [
-    {
-      "id": "4412079",
-      "title": "Ho Chi Minh City B Women v Thai Nguyen T&T Women",
-      "home": "Ho Chi Minh City B Women",
-      "away": "Thai Nguyen T&T Women",
-      "league": "Women's National League",
-      "kickoff": "2026-10-23T08:00:00.000Z",
-      "status": "finished",
-      "source": "RBTV+",
-      "homeScore": 0,
-      "awayScore": 3
-    },
-    {
-      "id": "4412083",
-      "title": "Hồ Chí Minh City Women v Phong Phu Ha Nam Women",
-      "home": "Hồ Chí Minh City Women",
-      "away": "Phong Phu Ha Nam Women",
-      "league": "Women's National League",
-      "kickoff": "2026-10-23T08:00:00.000Z",
-      "status": "finished",
-      "source": "RBTV+",
-      "homeScore": 0,
-      "awayScore": 2
-    },
     {
       "id": "4404362",
       "title": "Nigeria (w) U17 v North Korea U17 Women",
@@ -84,8 +60,7 @@
       "away": "Morocco (w) football U17",
       "league": "U17 Women's World Cup",
       "kickoff": "2026-10-23T18:00:00.000Z",
-      "status": "live",
-      "url": "https://www.fctv33go.cfd/football/fifa-u17-womens-world-cup-match-4445042/argentina-u17-women-vs-morocco-u17-women-10-2026.html",
+      "status": "finished",
       "source": "RBTV+",
       "homeScore": 5,
       "awayScore": 1
@@ -97,8 +72,7 @@
       "away": "Germany (w) U17",
       "league": "U17 Women's World Cup",
       "kickoff": "2026-10-23T18:00:00.000Z",
-      "status": "live",
-      "url": "https://www.fctv33go.cfd/football/fifa-u17-womens-world-cup-match-4445043/new-zealand-u17-women-vs-germany-u17-women-10-2026.html",
+      "status": "finished",
       "source": "RBTV+",
       "homeScore": 0,
       "awayScore": 2
@@ -110,8 +84,7 @@
       "away": "Montpellier (w)",
       "league": "French Division 1 Feminine",
       "kickoff": "2026-10-23T19:05:00.000Z",
-      "status": "live",
-      "url": "https://www.fctv33go.cfd/football/french-division-1-feminine-match-4454009/paris-saint-germain-women-vs-montpellier-women-10-2026.html",
+      "status": "finished",
       "source": "RBTV+",
       "homeScore": 1,
       "awayScore": 0
