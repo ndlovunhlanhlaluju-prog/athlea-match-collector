@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-23T14:59:39.288Z",
-  "lastSuccessfulAt": "2026-10-23T14:59:39.288Z",
+  "checkedAt": "2026-10-23T17:38:10.171Z",
+  "lastSuccessfulAt": "2026-10-23T17:38:10.171Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": [
@@ -62,8 +62,7 @@
       "away": "North Korea U17 Women",
       "league": "U17 Women's World Cup",
       "kickoff": "2026-10-23T15:00:00.000Z",
-      "status": "upcoming",
-      "url": "https://www.fctv33go.cfd/football/fifa-u17-womens-world-cup-match-4404362/nigeria-u17-women-vs-north-korea-u17-women-10-2026.html",
+      "status": "finished",
       "source": "RBTV+"
     },
     {
@@ -73,8 +72,7 @@
       "away": "Poland (w) U17",
       "league": "U17 Women's World Cup",
       "kickoff": "2026-10-23T15:00:00.000Z",
-      "status": "upcoming",
-      "url": "https://www.fctv33go.cfd/football/fifa-u17-womens-world-cup-match-4404363/puerto-rico-u17-women-vs-poland-u17-women-10-2026.html",
+      "status": "finished",
       "source": "RBTV+"
     },
     {
@@ -84,9 +82,11 @@
       "away": "Bayern Munchen (w)",
       "league": "German Frauen Bundesliga",
       "kickoff": "2026-10-23T16:30:00.000Z",
-      "status": "upcoming",
+      "status": "live",
       "url": "https://www.fctv33go.cfd/football/german-frauen-bundesliga-match-4442139/rb-leipzig-women-vs-bayern-munchen-women-10-2026.html",
-      "source": "RBTV+"
+      "source": "RBTV+",
+      "homeScore": 0,
+      "awayScore": 2
     },
     {
       "id": "4468166",
@@ -95,9 +95,11 @@
       "away": "Valencia FCF (w)",
       "league": "Spanish Primera División de la Liga de Fútbol Femenino",
       "kickoff": "2026-10-23T17:30:00.000Z",
-      "status": "upcoming",
+      "status": "live",
       "url": "https://www.fctv33go.cfd/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4468166/atletico-de-madrid-women-vs-valencia-fcf-women-10-2026.html",
-      "source": "RBTV+"
+      "source": "RBTV+",
+      "homeScore": 0,
+      "awayScore": 0
     },
     {
       "id": "4445042",
@@ -339,6 +341,83 @@
       "kickoff": "2026-10-24T14:00:00.000Z",
       "status": "upcoming",
       "url": "https://www.fctv33go.cfd/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4468160/real-madrid-women-vs-costa-adeje-tenerifew-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4404368",
+      "title": "Brasil (w) U17 v Norway (w) U17",
+      "home": "Brasil (w) U17",
+      "away": "Norway (w) U17",
+      "league": "U17 Women's World Cup",
+      "kickoff": "2026-10-24T15:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.cfd/football/fifa-u17-womens-world-cup-match-4404368/brazil-u17-women-vs-norway-u17-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4404369",
+      "title": "Ghana (w) U17 v Canada (w) U17",
+      "home": "Ghana (w) U17",
+      "away": "Canada (w) U17",
+      "league": "U17 Women's World Cup",
+      "kickoff": "2026-10-24T15:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.cfd/football/fifa-u17-womens-world-cup-match-4404369/ghana-u17-women-vs-canada-u17-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4504664",
+      "title": "Racing Power Women v Rio Ave Women",
+      "home": "Racing Power Women",
+      "away": "Rio Ave Women",
+      "league": "Portugal Campeonato Nacional Feminino",
+      "kickoff": "2026-10-24T15:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.cfd/football/portugal-campeonato-nacional-feminino-match-4504664/racing-power-women-vs-rio-ave-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4503349",
+      "title": "Le Havre (w) v Lens Women",
+      "home": "Le Havre (w)",
+      "away": "Lens Women",
+      "league": "French Division 1 Feminine",
+      "kickoff": "2026-10-24T16:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.cfd/football/french-division-1-feminine-match-4503349/le-havre-women-vs-lens-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4461065",
+      "title": "Brighton H.A. (w) v West Ham United (w)",
+      "home": "Brighton H.A. (w)",
+      "away": "West Ham United (w)",
+      "league": "English FA Women's Super League",
+      "kickoff": "2026-10-24T16:15:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.cfd/football/english-fa-womens-super-league-match-4461065/brighton--hove-albion-women-vs-west-ham-united-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4468164",
+      "title": "CDEF Logrono (w) v Levante Las Planas (w)",
+      "home": "CDEF Logrono (w)",
+      "away": "Levante Las Planas (w)",
+      "league": "Spanish Primera División de la Liga de Fútbol Femenino",
+      "kickoff": "2026-10-24T16:15:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.cfd/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4468164/logroo-united-women-vs-levante-las-planas-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4466493",
+      "title": "Juventus (w) v AS Roma (w)",
+      "home": "Juventus (w)",
+      "away": "AS Roma (w)",
+      "league": "Italian Women's Serie A",
+      "kickoff": "2026-10-24T16:30:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.cfd/football/italian-womens-serie-a-match-4466493/juventus-women-vs-as-roma-women-10-2026.html",
       "source": "RBTV+"
     }
   ]
