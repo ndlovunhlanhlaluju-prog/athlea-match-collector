@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-23T19:08:23.396Z",
-  "lastSuccessfulAt": "2026-10-23T19:08:23.396Z",
+  "checkedAt": "2026-10-23T19:35:06.535Z",
+  "lastSuccessfulAt": "2026-10-23T19:35:06.535Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": [
@@ -13,7 +13,9 @@
       "league": "Women's National League",
       "kickoff": "2026-10-23T08:00:00.000Z",
       "status": "finished",
-      "source": "RBTV+"
+      "source": "RBTV+",
+      "homeScore": 0,
+      "awayScore": 3
     },
     {
       "id": "4412083",
@@ -23,7 +25,9 @@
       "league": "Women's National League",
       "kickoff": "2026-10-23T08:00:00.000Z",
       "status": "finished",
-      "source": "RBTV+"
+      "source": "RBTV+",
+      "homeScore": 0,
+      "awayScore": 2
     },
     {
       "id": "4404362",
@@ -33,7 +37,9 @@
       "league": "U17 Women's World Cup",
       "kickoff": "2026-10-23T15:00:00.000Z",
       "status": "finished",
-      "source": "RBTV+"
+      "source": "RBTV+",
+      "homeScore": 3,
+      "awayScore": 1
     },
     {
       "id": "4404363",
@@ -43,7 +49,9 @@
       "league": "U17 Women's World Cup",
       "kickoff": "2026-10-23T15:00:00.000Z",
       "status": "finished",
-      "source": "RBTV+"
+      "source": "RBTV+",
+      "homeScore": 2,
+      "awayScore": 6
     },
     {
       "id": "4442139",
@@ -53,7 +61,9 @@
       "league": "German Frauen Bundesliga",
       "kickoff": "2026-10-23T16:30:00.000Z",
       "status": "finished",
-      "source": "RBTV+"
+      "source": "RBTV+",
+      "homeScore": 1,
+      "awayScore": 5
     },
     {
       "id": "4468166",
@@ -62,8 +72,7 @@
       "away": "Valencia FCF (w)",
       "league": "Spanish Primera División de la Liga de Fútbol Femenino",
       "kickoff": "2026-10-23T17:30:00.000Z",
-      "status": "live",
-      "url": "https://www.fctv33go.cfd/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4468166/atletico-de-madrid-women-vs-valencia-fcf-women-10-2026.html",
+      "status": "finished",
       "source": "RBTV+",
       "homeScore": 4,
       "awayScore": 0
@@ -78,8 +87,8 @@
       "status": "live",
       "url": "https://www.fctv33go.cfd/football/fifa-u17-womens-world-cup-match-4445042/argentina-u17-women-vs-morocco-u17-women-10-2026.html",
       "source": "RBTV+",
-      "homeScore": 4,
-      "awayScore": 0
+      "homeScore": 5,
+      "awayScore": 1
     },
     {
       "id": "4445043",
@@ -92,7 +101,7 @@
       "url": "https://www.fctv33go.cfd/football/fifa-u17-womens-world-cup-match-4445043/new-zealand-u17-women-vs-germany-u17-women-10-2026.html",
       "source": "RBTV+",
       "homeScore": 0,
-      "awayScore": 1
+      "awayScore": 2
     },
     {
       "id": "4454009",
@@ -104,7 +113,7 @@
       "status": "live",
       "url": "https://www.fctv33go.cfd/football/french-division-1-feminine-match-4454009/paris-saint-germain-women-vs-montpellier-women-10-2026.html",
       "source": "RBTV+",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0
     },
     {
@@ -413,6 +422,17 @@
       "kickoff": "2026-10-24T18:30:00.000Z",
       "status": "upcoming",
       "url": "https://www.fctv33go.cfd/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4468163/barcelona-women-vs-granada-cf-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4454028",
+      "title": "Lyon (w) v Marseillaises Women",
+      "home": "Lyon (w)",
+      "away": "Marseillaises Women",
+      "league": "French Division 1 Feminine",
+      "kickoff": "2026-10-24T19:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.cfd/football/french-division-1-feminine-match-4454028/ol-lyonnes-women-vs-marseillaises-women-10-2026.html",
       "source": "RBTV+"
     }
   ]
