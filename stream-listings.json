@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-23T22:23:46.722Z",
-  "lastSuccessfulAt": "2026-10-23T22:23:46.722Z",
+  "checkedAt": "2026-10-24T01:01:50.565Z",
+  "lastSuccessfulAt": "2026-10-24T01:01:50.565Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": [
@@ -96,9 +96,11 @@
       "away": "Sporting JAX (W)",
       "league": "United States Women's Premier League",
       "kickoff": "2026-10-23T23:30:00.000Z",
-      "status": "upcoming",
+      "status": "live",
       "url": "https://www.fctv33go.cfd/football/united-states-womens-premier-league-match-4522900/lexington-sc-women-vs-sporting-jax-w-10-2026.html",
-      "source": "RBTV+"
+      "source": "RBTV+",
+      "homeScore": 3,
+      "awayScore": 2
     },
     {
       "id": "4368566",
@@ -107,9 +109,11 @@
       "away": "Houston Dash (w)",
       "league": "United States Women's National Soccer League",
       "kickoff": "2026-10-24T00:00:00.000Z",
-      "status": "upcoming",
+      "status": "live",
       "url": "https://www.fctv33go.cfd/football/united-states-womens-national-soccer-league-match-4368566/chicago-red-stars-women-vs-houston-dash-women-10-2026.html",
-      "source": "RBTV+"
+      "source": "RBTV+",
+      "homeScore": 0,
+      "awayScore": 1
     },
     {
       "id": "4368520",
@@ -266,6 +270,17 @@
       "source": "RBTV+"
     },
     {
+      "id": "4523407",
+      "title": "FUS Rabat (W) v WAC Casablanca (W)",
+      "home": "FUS Rabat (W)",
+      "away": "WAC Casablanca (W)",
+      "league": "Division 1 Féminin",
+      "kickoff": "2026-10-24T12:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.cfd/football/division-1-feminin-match-4523407/fus-rabat-w-vs-wac-casablanca-w-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
       "id": "4454043",
       "title": "Saint Malo Women v Paris FC (w)",
       "home": "Saint Malo Women",
@@ -406,6 +421,50 @@
       "kickoff": "2026-10-24T19:00:00.000Z",
       "status": "upcoming",
       "url": "https://www.fctv33go.cfd/football/french-division-1-feminine-match-4454028/ol-lyonnes-women-vs-marseillaises-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4371052",
+      "title": "Denver Summit W v Racing Louisville (W)",
+      "home": "Denver Summit W",
+      "away": "Racing Louisville (W)",
+      "league": "United States Women's National Soccer League",
+      "kickoff": "2026-10-24T22:30:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.cfd/football/united-states-womens-national-soccer-league-match-4371052/denver-summit-w-vs-racing-louisville-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4455853",
+      "title": "Saint Louis Athletica (w) v Club America (w)",
+      "home": "Saint Louis Athletica (w)",
+      "away": "Club America (w)",
+      "league": "Mexico Liga MX Femenil",
+      "kickoff": "2026-10-24T23:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.cfd/football/mexico-liga-mx-femenil-match-4455853/saint-louis-athletica-women-vs-club-america-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4455869",
+      "title": "Cruz Azul (w) v Toluca (w)",
+      "home": "Cruz Azul (w)",
+      "away": "Toluca (w)",
+      "league": "Mexico Liga MX Femenil",
+      "kickoff": "2026-10-25T00:10:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.cfd/football/mexico-liga-mx-femenil-match-4455869/cruz-azul-womenw-vs-toluca-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4368495",
+      "title": "Angel City FC (W) v Bay FC (w)",
+      "home": "Angel City FC (W)",
+      "away": "Bay FC (w)",
+      "league": "United States Women's National Soccer League",
+      "kickoff": "2026-10-25T00:45:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.cfd/football/united-states-womens-national-soccer-league-match-4368495/angel-city-fc-women-vs-bay-fc-w-10-2026.html",
       "source": "RBTV+"
     }
   ]
