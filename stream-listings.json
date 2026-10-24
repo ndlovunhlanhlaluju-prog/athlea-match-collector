@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-10-24T19:28:54.258Z",
+    "lastSuccessfulAt": "2026-10-24T21:52:10.410Z",
     "items": [
       {
         "home": "Tottenham Hotspur (W)",
@@ -105,8 +105,8 @@
     ]
   },
   "status": "ok",
-  "checkedAt": "2026-10-24T19:28:36.683Z",
-  "lastSuccessfulAt": "2026-10-24T19:28:36.683Z",
+  "checkedAt": "2026-10-24T21:51:51.490Z",
+  "lastSuccessfulAt": "2026-10-24T21:51:51.490Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": [
@@ -261,8 +261,7 @@
       "away": "France (w) U17",
       "league": "U17 Women's World Cup",
       "kickoff": "2026-10-24T18:00:00.000Z",
-      "status": "live",
-      "url": "https://www.fctv33go.sbs/football/fifa-u17-womens-world-cup-match-4404370/zambia-u17-women-vs-france-u17-women-10-2026.html",
+      "status": "finished",
       "source": "RBTV+",
       "homeScore": 0,
       "awayScore": 1
@@ -274,11 +273,10 @@
       "away": "Japan (w) U17",
       "league": "U17 Women's World Cup",
       "kickoff": "2026-10-24T18:00:00.000Z",
-      "status": "live",
-      "url": "https://www.fctv33go.sbs/football/fifa-u17-womens-world-cup-match-4404373/venezuela-u17-women-vs-japan-u17-women-10-2026.html",
+      "status": "finished",
       "source": "RBTV+",
       "homeScore": 0,
-      "awayScore": 1
+      "awayScore": 2
     },
     {
       "id": "4468163",
@@ -287,10 +285,9 @@
       "away": "Granada CF(w)",
       "league": "Spanish Primera División de la Liga de Fútbol Femenino",
       "kickoff": "2026-10-24T18:30:00.000Z",
-      "status": "live",
-      "url": "https://www.fctv33go.sbs/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4468163/barcelona-women-vs-granada-cf-women-10-2026.html",
+      "status": "finished",
       "source": "RBTV+",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 0
     },
     {
@@ -300,10 +297,9 @@
       "away": "Marseillaises Women",
       "league": "French Division 1 Feminine",
       "kickoff": "2026-10-24T19:00:00.000Z",
-      "status": "live",
-      "url": "https://www.fctv33go.sbs/football/french-division-1-feminine-match-4454028/ol-lyonnes-women-vs-marseillaises-women-10-2026.html",
+      "status": "finished",
       "source": "RBTV+",
-      "homeScore": 2,
+      "homeScore": 5,
       "awayScore": 0
     },
     {
@@ -590,6 +586,28 @@
       "kickoff": "2026-10-25T18:00:00.000Z",
       "status": "upcoming",
       "url": "https://www.fctv33go.sbs/football/english-fa-womens-super-league-match-4461071/manchester-united-womenw-vs-manchester-city-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4368616",
+      "title": "Orlando Pride (w) v Gotham FC (W)",
+      "home": "Orlando Pride (w)",
+      "away": "Gotham FC (W)",
+      "league": "United States Women's National Soccer League",
+      "kickoff": "2026-10-25T19:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/united-states-womens-national-soccer-league-match-4368616/orlando-pride-women-vs-nj-ny-gotham-fc-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4368519",
+      "title": "Kansas City NWSL (W) v Washington Spirit (w)",
+      "home": "Kansas City NWSL (W)",
+      "away": "Washington Spirit (w)",
+      "league": "United States Women's National Soccer League",
+      "kickoff": "2026-10-25T21:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/united-states-womens-national-soccer-league-match-4368519/kansas-city-current-women-vs-washington-spirit-women-10-2026.html",
       "source": "RBTV+"
     }
   ]
