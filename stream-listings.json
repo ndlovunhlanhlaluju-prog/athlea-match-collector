@@ -1,7 +1,112 @@
 {
+  "backup": {
+    "status": "ok",
+    "lastSuccessfulAt": "2026-10-24T17:46:38.768Z",
+    "items": [
+      {
+        "home": "Tottenham Hotspur (W)",
+        "away": "Arsenal (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-10-24T11:45Z",
+        "url": "https://www.808fubo29.com/football/3051995-tottenham-hotspur--w-vs-arsenal-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Brighton & Hove Albion (W)",
+        "away": "West Ham United (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-10-24T16:15Z",
+        "url": "https://www.808fubo29.com/football/3051991-brighton-ha-w-vs-west-ham-united-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Denver Summit FC (W)",
+        "away": "Racing Louisville FC (W)",
+        "league": "National Women's Soccer League",
+        "kickoff": "2026-10-24T22:30Z",
+        "url": "https://www.808fubo29.com/football/2957084-denver-summit-w-vs-racing-louisville-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Angel City FC (W)",
+        "away": "Bay FC (W)",
+        "league": "National Women's Soccer League",
+        "kickoff": "2026-10-25T00:45Z",
+        "url": "https://www.808fubo29.com/football/2957085-angel-city-fc-w-vs-bay-fc-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Crystal Palace (W)",
+        "away": "Chelsea (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-10-25T12:00Z",
+        "url": "https://www.808fubo29.com/football/3051992-crystalpalace-w-vs-chelsea-fc-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Everton (W)",
+        "away": "Aston Villa (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-10-25T14:00Z",
+        "url": "https://www.808fubo29.com/football/3051993-everton-fc-w-vs-aston-villa-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Liverpool (W)",
+        "away": "London City Lionesses (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-10-25T14:00Z",
+        "url": "https://www.808fubo29.com/football/3051994-liverpool-w-vs-london-city-lionesses-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Eibar (W)",
+        "away": "Madrid CFF (W)",
+        "league": "Spanish Liga F Women",
+        "kickoff": "2026-10-25T16:00Z",
+        "url": "https://www.808fubo29.com/football/3057214-eibar-w-vs-madrid-cff-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Manchester United (W)",
+        "away": "Manchester City (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-10-25T18:00Z",
+        "url": "https://www.808fubo29.com/football/3051989-manchester-united-w-vs-manchester-city-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Orlando Pride (W)",
+        "away": "Gotham FC (W)",
+        "league": "National Women's Soccer League",
+        "kickoff": "2026-10-25T19:00Z",
+        "url": "https://www.808fubo29.com/football/2957086-orlando-pride-w-vs-gotham-fc-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "San Diego Wave FC (W)",
+        "away": "Boston Legacy FC (W)",
+        "league": "National Women's Soccer League",
+        "kickoff": "2026-10-25T23:00Z",
+        "url": "https://www.808fubo29.com/football/2957088-san-diego-wave-w-vs-boston-legacy-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      }
+    ]
+  },
   "status": "ok",
-  "checkedAt": "2026-10-24T17:43:16.165Z",
-  "lastSuccessfulAt": "2026-10-24T17:43:16.165Z",
+  "checkedAt": "2026-10-24T17:46:22.490Z",
+  "lastSuccessfulAt": "2026-10-24T17:46:22.490Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": [
@@ -148,7 +253,7 @@
       "status": "live",
       "url": "https://www.fctv33go.sbs/football/english-fa-womens-super-league-match-4461065/brighton--hove-albion-women-vs-west-ham-united-women-10-2026.html",
       "source": "RBTV+",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 0
     },
     {
@@ -175,7 +280,7 @@
       "url": "https://www.fctv33go.sbs/football/italian-womens-serie-a-match-4466493/juventus-women-vs-as-roma-women-10-2026.html",
       "source": "RBTV+",
       "homeScore": 0,
-      "awayScore": 5
+      "awayScore": 4
     },
     {
       "id": "4404370",
