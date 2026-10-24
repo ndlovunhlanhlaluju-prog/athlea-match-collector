@@ -1,17 +1,8 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-10-24T21:52:10.410Z",
+    "lastSuccessfulAt": "2026-10-24T23:57:40.693Z",
     "items": [
-      {
-        "home": "Tottenham Hotspur (W)",
-        "away": "Arsenal (W)",
-        "league": "English Women's Super League",
-        "kickoff": "2026-10-24T11:45Z",
-        "url": "https://www.808fubo29.com/football/3051995-tottenham-hotspur--w-vs-arsenal-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
       {
         "home": "Brighton & Hove Albion (W)",
         "away": "West Ham United (W)",
@@ -105,59 +96,11 @@
     ]
   },
   "status": "ok",
-  "checkedAt": "2026-10-24T21:51:51.490Z",
-  "lastSuccessfulAt": "2026-10-24T21:51:51.490Z",
+  "checkedAt": "2026-10-24T23:57:23.052Z",
+  "lastSuccessfulAt": "2026-10-24T23:57:23.052Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": [
-    {
-      "id": "4442164",
-      "title": "VfL Wolfsburg (w) v Koln (w)",
-      "home": "VfL Wolfsburg (w)",
-      "away": "Koln (w)",
-      "league": "German Frauen Bundesliga",
-      "kickoff": "2026-10-24T10:00:00.000Z",
-      "status": "finished",
-      "source": "RBTV+",
-      "homeScore": 3,
-      "awayScore": 0
-    },
-    {
-      "id": "4468159",
-      "title": "Real Sociedad (w) v RCD Espanyol (w)",
-      "home": "Real Sociedad (w)",
-      "away": "RCD Espanyol (w)",
-      "league": "Spanish Primera División de la Liga de Fútbol Femenino",
-      "kickoff": "2026-10-24T10:00:00.000Z",
-      "status": "finished",
-      "source": "RBTV+",
-      "homeScore": 1,
-      "awayScore": 1
-    },
-    {
-      "id": "4468216",
-      "title": "Athletic Club (w) v Sevilla FC (w)",
-      "home": "Athletic Club (w)",
-      "away": "Sevilla FC (w)",
-      "league": "Spanish Primera División de la Liga de Fútbol Femenino",
-      "kickoff": "2026-10-24T10:00:00.000Z",
-      "status": "finished",
-      "source": "RBTV+",
-      "homeScore": 0,
-      "awayScore": 0
-    },
-    {
-      "id": "4466495",
-      "title": "AC Milan (w) v Ternana W",
-      "home": "AC Milan (w)",
-      "away": "Ternana W",
-      "league": "Italian Women's Serie A",
-      "kickoff": "2026-10-24T10:30:00.000Z",
-      "status": "finished",
-      "source": "RBTV+",
-      "homeScore": 3,
-      "awayScore": 0
-    },
     {
       "id": "4466491",
       "title": "Napoli Women v Inter Milan (w)",
@@ -309,20 +252,11 @@
       "away": "Racing Louisville (W)",
       "league": "United States Women's National Soccer League",
       "kickoff": "2026-10-24T22:30:00.000Z",
-      "status": "upcoming",
+      "status": "live",
       "url": "https://www.fctv33go.sbs/football/united-states-womens-national-soccer-league-match-4371052/denver-summit-w-vs-racing-louisville-women-10-2026.html",
-      "source": "RBTV+"
-    },
-    {
-      "id": "4455853",
-      "title": "Saint Louis Athletica (w) v Club America (w)",
-      "home": "Saint Louis Athletica (w)",
-      "away": "Club America (w)",
-      "league": "Mexico Liga MX Femenil",
-      "kickoff": "2026-10-24T23:00:00.000Z",
-      "status": "upcoming",
-      "url": "https://www.fctv33go.sbs/football/mexico-liga-mx-femenil-match-4455853/saint-louis-athletica-women-vs-club-america-women-10-2026.html",
-      "source": "RBTV+"
+      "source": "RBTV+",
+      "homeScore": 4,
+      "awayScore": 0
     },
     {
       "id": "4518308",
@@ -331,9 +265,11 @@
       "away": "Melbourne Victory (w)",
       "league": "Australia W-League",
       "kickoff": "2026-10-24T23:15:00.000Z",
-      "status": "upcoming",
+      "status": "live",
       "url": "https://www.fctv33go.sbs/football/australia-w-league-match-4518308/wellington-phoenix-women-vs-melbourne-victory-women-10-2026.html",
-      "source": "RBTV+"
+      "source": "RBTV+",
+      "homeScore": 0,
+      "awayScore": 1
     },
     {
       "id": "4521837",
