@@ -1,7 +1,12 @@
 {
+  "backup": {
+    "status": "ok",
+    "lastSuccessfulAt": "2026-10-24T12:36:47.192Z",
+    "items": []
+  },
   "status": "ok",
-  "checkedAt": "2026-10-24T12:24:47.373Z",
-  "lastSuccessfulAt": "2026-10-24T12:24:47.373Z",
+  "checkedAt": "2026-10-24T12:36:27.261Z",
+  "lastSuccessfulAt": "2026-10-24T12:36:27.261Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": [
@@ -144,8 +149,7 @@
       "away": "Ternana W",
       "league": "Italian Women's Serie A",
       "kickoff": "2026-10-24T10:30:00.000Z",
-      "status": "live",
-      "url": "https://www.fctv33go.sbs/football/italian-womens-serie-a-match-4466495/ac-milan-women-vs-ternana-w-10-2026.html",
+      "status": "finished",
       "source": "RBTV+",
       "homeScore": 3,
       "awayScore": 0
@@ -447,6 +451,17 @@
       "kickoff": "2026-10-25T11:45:00.000Z",
       "status": "upcoming",
       "url": "https://www.fctv33go.sbs/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4468157/deportivo-la-coruna-women-vs-cd-alaves-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4461093",
+      "title": "CrystalPalace (w) v Chelsea FC (w)",
+      "home": "CrystalPalace (w)",
+      "away": "Chelsea FC (w)",
+      "league": "English FA Women's Super League",
+      "kickoff": "2026-10-25T12:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/english-fa-womens-super-league-match-4461093/crystal-palace-women-vs-chelsea-fc-women-10-2026.html",
       "source": "RBTV+"
     }
   ]
