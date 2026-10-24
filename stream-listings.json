@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-24T17:06:17.227Z",
-  "lastSuccessfulAt": "2026-10-24T17:06:17.227Z",
+  "checkedAt": "2026-10-24T17:43:16.165Z",
+  "lastSuccessfulAt": "2026-10-24T17:43:16.165Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": [
@@ -126,17 +126,6 @@
       "awayScore": 0
     },
     {
-      "id": "4404370",
-      "title": "Zambia U17(w) v France (w) U17",
-      "home": "Zambia U17(w)",
-      "away": "France (w) U17",
-      "league": "U17 Women's World Cup",
-      "kickoff": "2026-10-24T16:00:00.000Z",
-      "status": "upcoming",
-      "url": "https://www.fctv33go.sbs/football/fifa-u17-womens-world-cup-match-4404370/zambia-u17-women-vs-france-u17-women-10-2026.html",
-      "source": "RBTV+"
-    },
-    {
       "id": "4503349",
       "title": "Le Havre (w) v Lens Women",
       "home": "Le Havre (w)",
@@ -159,7 +148,7 @@
       "status": "live",
       "url": "https://www.fctv33go.sbs/football/english-fa-womens-super-league-match-4461065/brighton--hove-albion-women-vs-west-ham-united-women-10-2026.html",
       "source": "RBTV+",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0
     },
     {
@@ -186,7 +175,18 @@
       "url": "https://www.fctv33go.sbs/football/italian-womens-serie-a-match-4466493/juventus-women-vs-as-roma-women-10-2026.html",
       "source": "RBTV+",
       "homeScore": 0,
-      "awayScore": 3
+      "awayScore": 5
+    },
+    {
+      "id": "4404370",
+      "title": "Zambia U17(w) v France (w) U17",
+      "home": "Zambia U17(w)",
+      "away": "France (w) U17",
+      "league": "U17 Women's World Cup",
+      "kickoff": "2026-10-24T18:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/fifa-u17-womens-world-cup-match-4404370/zambia-u17-women-vs-france-u17-women-10-2026.html",
+      "source": "RBTV+"
     },
     {
       "id": "4404373",
@@ -461,6 +461,17 @@
       "kickoff": "2026-10-25T16:10:00.000Z",
       "status": "upcoming",
       "url": "https://www.fctv33go.sbs/football/scottish-womens-premier-league-match-4447195/partick-thistle-women-vs-glasgow-city-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4466471",
+      "title": "Parma(W) v Fiorentina (w)",
+      "home": "Parma(W)",
+      "away": "Fiorentina (w)",
+      "league": "Italian Women's Serie A",
+      "kickoff": "2026-10-25T17:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/italian-womens-serie-a-match-4466471/parma-women-vs-fiorentina-women-10-2026.html",
       "source": "RBTV+"
     }
   ]
