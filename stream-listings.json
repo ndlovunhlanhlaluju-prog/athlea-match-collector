@@ -1,94 +1,10 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-24T12:52:55.274Z",
-  "lastSuccessfulAt": "2026-10-24T12:52:55.274Z",
+  "checkedAt": "2026-10-24T17:06:17.227Z",
+  "lastSuccessfulAt": "2026-10-24T17:06:17.227Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": [
-    {
-      "id": "4368520",
-      "title": "Portland Thorns FC (w) v North Carolina (w)",
-      "home": "Portland Thorns FC (w)",
-      "away": "North Carolina (w)",
-      "league": "United States Women's National Soccer League",
-      "kickoff": "2026-10-24T02:10:00.000Z",
-      "status": "finished",
-      "source": "RBTV+",
-      "homeScore": 1,
-      "awayScore": 0
-    },
-    {
-      "id": "4478161",
-      "title": "NTV Tokyo Verdy Beleza v AS Elfen Saitama",
-      "home": "NTV Tokyo Verdy Beleza",
-      "away": "AS Elfen Saitama",
-      "league": "Women Empowerment League",
-      "kickoff": "2026-10-24T03:00:00.000Z",
-      "status": "finished",
-      "source": "RBTV+",
-      "homeScore": 4,
-      "awayScore": 1
-    },
-    {
-      "id": "4518303",
-      "title": "WS Wanderers (w) v Brisbane Roar (w)",
-      "home": "WS Wanderers (w)",
-      "away": "Brisbane Roar (w)",
-      "league": "Australia W-League",
-      "kickoff": "2026-10-24T03:15:00.000Z",
-      "status": "finished",
-      "source": "RBTV+",
-      "homeScore": 3,
-      "awayScore": 1
-    },
-    {
-      "id": "4478200",
-      "title": "Albirex Niigata (w) v JEF United Ichihara Chiba Ladies",
-      "home": "Albirex Niigata (w)",
-      "away": "JEF United Ichihara Chiba Ladies",
-      "league": "Women Empowerment League",
-      "kickoff": "2026-10-24T04:00:00.000Z",
-      "status": "finished",
-      "source": "RBTV+",
-      "homeScore": 0,
-      "awayScore": 1
-    },
-    {
-      "id": "4518307",
-      "title": "Central Coast Mariners Women v Canberra United (w)",
-      "home": "Central Coast Mariners Women",
-      "away": "Canberra United (w)",
-      "league": "Australia W-League",
-      "kickoff": "2026-10-24T04:00:00.000Z",
-      "status": "finished",
-      "source": "RBTV+",
-      "homeScore": 5,
-      "awayScore": 1
-    },
-    {
-      "id": "4478163",
-      "title": "Urawa Red Diamonds (w) v INAC Kobe Leonessa",
-      "home": "Urawa Red Diamonds (w)",
-      "away": "INAC Kobe Leonessa",
-      "league": "Women Empowerment League",
-      "kickoff": "2026-10-24T05:00:00.000Z",
-      "status": "finished",
-      "source": "RBTV+",
-      "homeScore": 2,
-      "awayScore": 0
-    },
-    {
-      "id": "4478201",
-      "title": "Mynavi Sendai Ladies v Nojima Stella Kanagawa Sagamihara",
-      "home": "Mynavi Sendai Ladies",
-      "away": "Nojima Stella Kanagawa Sagamihara",
-      "league": "Women Empowerment League",
-      "kickoff": "2026-10-24T05:00:00.000Z",
-      "status": "finished",
-      "source": "RBTV+",
-      "homeScore": 0,
-      "awayScore": 0
-    },
     {
       "id": "4518310",
       "title": "Adelaide United (w) v Perth Glory (w)",
@@ -150,50 +66,16 @@
       "awayScore": 0
     },
     {
-      "id": "4461064",
-      "title": "Tottenham Hotspur (w) v Arsenal (w)",
-      "home": "Tottenham Hotspur (w)",
-      "away": "Arsenal (w)",
-      "league": "English FA Women's Super League",
-      "kickoff": "2026-10-24T11:45:00.000Z",
-      "status": "live",
-      "url": "https://www.fctv33go.sbs/football/english-fa-womens-super-league-match-4461064/tottenham-hotspur-women-vs-arsenal-women-10-2026.html",
-      "source": "RBTV+",
-      "homeScore": 1,
-      "awayScore": 1
-    },
-    {
-      "id": "4329135",
-      "title": "Kristianstads DFF (w) v Malmo Women",
-      "home": "Kristianstads DFF (w)",
-      "away": "Malmo Women",
-      "league": "Sweden Damallsvenskan",
-      "kickoff": "2026-10-24T13:00:00.000Z",
-      "status": "upcoming",
-      "url": "https://www.fctv33go.sbs/football/sweden-damallsvenskan-match-4329135/kristianstads-dff-women-vs-malmo-women-10-2026.html",
-      "source": "RBTV+"
-    },
-    {
-      "id": "4329121",
-      "title": "IFK Norrkoping DFK (w) v IK Uppsala (w)",
-      "home": "IFK Norrkoping DFK (w)",
-      "away": "IK Uppsala (w)",
-      "league": "Sweden Damallsvenskan",
-      "kickoff": "2026-10-24T14:00:00.000Z",
-      "status": "upcoming",
-      "url": "https://www.fctv33go.sbs/football/sweden-damallsvenskan-match-4329121/ifk-norrkoping-dfk-women-vs-ik-uppsala-women-10-2026.html",
-      "source": "RBTV+"
-    },
-    {
       "id": "4466491",
       "title": "Napoli Women v Inter Milan (w)",
       "home": "Napoli Women",
       "away": "Inter Milan (w)",
       "league": "Italian Women's Serie A",
       "kickoff": "2026-10-24T14:00:00.000Z",
-      "status": "upcoming",
-      "url": "https://www.fctv33go.sbs/football/italian-womens-serie-a-match-4466491/napoli-women-vs-inter-milan-women-10-2026.html",
-      "source": "RBTV+"
+      "status": "finished",
+      "source": "RBTV+",
+      "homeScore": 0,
+      "awayScore": 0
     },
     {
       "id": "4468160",
@@ -202,9 +84,10 @@
       "away": "UDG Tenerife Egatesa (w)",
       "league": "Spanish Primera División de la Liga de Fútbol Femenino",
       "kickoff": "2026-10-24T14:00:00.000Z",
-      "status": "upcoming",
-      "url": "https://www.fctv33go.sbs/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4468160/real-madrid-women-vs-costa-adeje-tenerifew-10-2026.html",
-      "source": "RBTV+"
+      "status": "finished",
+      "source": "RBTV+",
+      "homeScore": 3,
+      "awayScore": 2
     },
     {
       "id": "4404368",
@@ -213,9 +96,10 @@
       "away": "Norway (w) U17",
       "league": "U17 Women's World Cup",
       "kickoff": "2026-10-24T15:00:00.000Z",
-      "status": "upcoming",
-      "url": "https://www.fctv33go.sbs/football/fifa-u17-womens-world-cup-match-4404368/brazil-u17-women-vs-norway-u17-women-10-2026.html",
-      "source": "RBTV+"
+      "status": "finished",
+      "source": "RBTV+",
+      "homeScore": 3,
+      "awayScore": 0
     },
     {
       "id": "4404369",
@@ -224,8 +108,32 @@
       "away": "Canada (w) U17",
       "league": "U17 Women's World Cup",
       "kickoff": "2026-10-24T15:00:00.000Z",
+      "status": "finished",
+      "source": "RBTV+",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "id": "4504664",
+      "title": "Racing Power Women v Rio Ave Women",
+      "home": "Racing Power Women",
+      "away": "Rio Ave Women",
+      "league": "Portugal Campeonato Nacional Feminino",
+      "kickoff": "2026-10-24T15:00:00.000Z",
+      "status": "finished",
+      "source": "RBTV+",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "id": "4404370",
+      "title": "Zambia U17(w) v France (w) U17",
+      "home": "Zambia U17(w)",
+      "away": "France (w) U17",
+      "league": "U17 Women's World Cup",
+      "kickoff": "2026-10-24T16:00:00.000Z",
       "status": "upcoming",
-      "url": "https://www.fctv33go.sbs/football/fifa-u17-womens-world-cup-match-4404369/ghana-u17-women-vs-canada-u17-women-10-2026.html",
+      "url": "https://www.fctv33go.sbs/football/fifa-u17-womens-world-cup-match-4404370/zambia-u17-women-vs-france-u17-women-10-2026.html",
       "source": "RBTV+"
     },
     {
@@ -235,9 +143,11 @@
       "away": "Lens Women",
       "league": "French Division 1 Feminine",
       "kickoff": "2026-10-24T16:00:00.000Z",
-      "status": "upcoming",
+      "status": "live",
       "url": "https://www.fctv33go.sbs/football/french-division-1-feminine-match-4503349/le-havre-women-vs-lens-women-10-2026.html",
-      "source": "RBTV+"
+      "source": "RBTV+",
+      "homeScore": 0,
+      "awayScore": 0
     },
     {
       "id": "4461065",
@@ -246,9 +156,11 @@
       "away": "West Ham United (w)",
       "league": "English FA Women's Super League",
       "kickoff": "2026-10-24T16:15:00.000Z",
-      "status": "upcoming",
+      "status": "live",
       "url": "https://www.fctv33go.sbs/football/english-fa-womens-super-league-match-4461065/brighton--hove-albion-women-vs-west-ham-united-women-10-2026.html",
-      "source": "RBTV+"
+      "source": "RBTV+",
+      "homeScore": 1,
+      "awayScore": 0
     },
     {
       "id": "4468164",
@@ -257,9 +169,11 @@
       "away": "Levante Las Planas (w)",
       "league": "Spanish Primera División de la Liga de Fútbol Femenino",
       "kickoff": "2026-10-24T16:15:00.000Z",
-      "status": "upcoming",
+      "status": "live",
       "url": "https://www.fctv33go.sbs/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4468164/logroo-united-women-vs-levante-las-planas-women-10-2026.html",
-      "source": "RBTV+"
+      "source": "RBTV+",
+      "homeScore": 0,
+      "awayScore": 0
     },
     {
       "id": "4466493",
@@ -268,20 +182,11 @@
       "away": "AS Roma (w)",
       "league": "Italian Women's Serie A",
       "kickoff": "2026-10-24T16:30:00.000Z",
-      "status": "upcoming",
+      "status": "live",
       "url": "https://www.fctv33go.sbs/football/italian-womens-serie-a-match-4466493/juventus-women-vs-as-roma-women-10-2026.html",
-      "source": "RBTV+"
-    },
-    {
-      "id": "4404370",
-      "title": "Zambia U17(w) v France (w) U17",
-      "home": "Zambia U17(w)",
-      "away": "France (w) U17",
-      "league": "U17 Women's World Cup",
-      "kickoff": "2026-10-24T18:00:00.000Z",
-      "status": "upcoming",
-      "url": "https://www.fctv33go.sbs/football/fifa-u17-womens-world-cup-match-4404370/zambia-u17-women-vs-france-u17-women-10-2026.html",
-      "source": "RBTV+"
+      "source": "RBTV+",
+      "homeScore": 0,
+      "awayScore": 3
     },
     {
       "id": "4404373",
@@ -416,6 +321,17 @@
       "source": "RBTV+"
     },
     {
+      "id": "4518790",
+      "title": "Sydney FC (w) v Melbourne City (w)",
+      "home": "Sydney FC (w)",
+      "away": "Melbourne City (w)",
+      "league": "Australia W-League",
+      "kickoff": "2026-10-25T06:45:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/australia-w-league-match-4518790/sydney-fc-women-vs-melbourne-city-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
       "id": "4519884",
       "title": "Naegohyang Women v Auckland United Women",
       "home": "Naegohyang Women",
@@ -457,6 +373,94 @@
       "kickoff": "2026-10-25T12:00:00.000Z",
       "status": "upcoming",
       "url": "https://www.fctv33go.sbs/football/english-fa-womens-super-league-match-4461093/crystal-palace-women-vs-chelsea-fc-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4461062",
+      "title": "Liverpool (w) v London City Lionesses (w)",
+      "home": "Liverpool (w)",
+      "away": "London City Lionesses (w)",
+      "league": "English FA Women's Super League",
+      "kickoff": "2026-10-25T14:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/english-fa-womens-super-league-match-4461062/liverpool-women-vs-london-city-lionesses-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4461066",
+      "title": "Birmingham (w) v Charlton (w)",
+      "home": "Birmingham (w)",
+      "away": "Charlton (w)",
+      "league": "English FA Women's Super League",
+      "kickoff": "2026-10-25T14:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/english-fa-womens-super-league-match-4461066/birmingham-women-vs-charlton-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4461078",
+      "title": "Everton FC (w) v Aston Villa (w)",
+      "home": "Everton FC (w)",
+      "away": "Aston Villa (w)",
+      "league": "English FA Women's Super League",
+      "kickoff": "2026-10-25T14:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/english-fa-womens-super-league-match-4461078/everton-fc-women-vs-aston-villa-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4466470",
+      "title": "Como 1907 (W) v Sassuolo (w)",
+      "home": "Como 1907 (W)",
+      "away": "Sassuolo (w)",
+      "league": "Italian Women's Serie A",
+      "kickoff": "2026-10-25T14:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/italian-womens-serie-a-match-4466470/como-1907-w-vs-sassuolo-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4450600",
+      "title": "Chile (w) U17 v Spain (w) U17",
+      "home": "Chile (w) U17",
+      "away": "Spain (w) U17",
+      "league": "U17 Women's World Cup",
+      "kickoff": "2026-10-25T15:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/fifa-u17-womens-world-cup-match-4450600/chile-u17-women-vs-spain-u17-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4450601",
+      "title": "Mexico (w) U17 v Australia U17 Women",
+      "home": "Mexico (w) U17",
+      "away": "Australia U17 Women",
+      "league": "U17 Women's World Cup",
+      "kickoff": "2026-10-25T15:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/fifa-u17-womens-world-cup-match-4450601/mexico-u17-women-vs-australia-u17-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4468192",
+      "title": "Eibar Women v Madrid CFF (w)",
+      "home": "Eibar Women",
+      "away": "Madrid CFF (w)",
+      "league": "Spanish Primera División de la Liga de Fútbol Femenino",
+      "kickoff": "2026-10-25T16:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4468192/eibar-women-vs-madrid-cff-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4447195",
+      "title": "Partick Thistle (w) v Glasgow City (w)",
+      "home": "Partick Thistle (w)",
+      "away": "Glasgow City (w)",
+      "league": "Scottish Women's Premier League",
+      "kickoff": "2026-10-25T16:10:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/scottish-womens-premier-league-match-4447195/partick-thistle-women-vs-glasgow-city-women-10-2026.html",
       "source": "RBTV+"
     }
   ]
