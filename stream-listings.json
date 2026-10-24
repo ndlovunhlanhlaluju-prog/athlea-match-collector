@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-24T11:48:42.970Z",
-  "lastSuccessfulAt": "2026-10-24T11:48:42.970Z",
+  "checkedAt": "2026-10-24T11:52:42.800Z",
+  "lastSuccessfulAt": "2026-10-24T11:52:42.800Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": [
@@ -120,8 +120,7 @@
       "away": "Koln (w)",
       "league": "German Frauen Bundesliga",
       "kickoff": "2026-10-24T10:00:00.000Z",
-      "status": "live",
-      "url": "https://www.fctv33go.sbs/football/german-frauen-bundesliga-match-4442164/vfl-wolfsburg-women-vs-koln-women-10-2026.html",
+      "status": "finished",
       "source": "RBTV+",
       "homeScore": 3,
       "awayScore": 0
@@ -163,6 +162,19 @@
       "url": "https://www.fctv33go.sbs/football/italian-womens-serie-a-match-4466495/ac-milan-women-vs-ternana-w-10-2026.html",
       "source": "RBTV+",
       "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "id": "4461064",
+      "title": "Tottenham Hotspur (w) v Arsenal (w)",
+      "home": "Tottenham Hotspur (w)",
+      "away": "Arsenal (w)",
+      "league": "English FA Women's Super League",
+      "kickoff": "2026-10-24T11:45:00.000Z",
+      "status": "live",
+      "url": "https://www.fctv33go.sbs/football/english-fa-womens-super-league-match-4461064/tottenham-hotspur-women-vs-arsenal-women-10-2026.html",
+      "source": "RBTV+",
+      "homeScore": 0,
       "awayScore": 0
     },
     {
@@ -295,6 +307,17 @@
       "kickoff": "2026-10-24T16:30:00.000Z",
       "status": "upcoming",
       "url": "https://www.fctv33go.sbs/football/italian-womens-serie-a-match-4466493/juventus-women-vs-as-roma-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4404370",
+      "title": "Zambia U17(w) v France (w) U17",
+      "home": "Zambia U17(w)",
+      "away": "France (w) U17",
+      "league": "U17 Women's World Cup",
+      "kickoff": "2026-10-24T18:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/fifa-u17-womens-world-cup-match-4404370/zambia-u17-women-vs-france-u17-women-10-2026.html",
       "source": "RBTV+"
     },
     {
