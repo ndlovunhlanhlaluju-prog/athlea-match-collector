@@ -1,12 +1,12 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-10-24T12:36:47.192Z",
+    "lastSuccessfulAt": "2026-10-24T12:43:00.697Z",
     "items": []
   },
   "status": "ok",
-  "checkedAt": "2026-10-24T12:36:27.261Z",
-  "lastSuccessfulAt": "2026-10-24T12:36:27.261Z",
+  "checkedAt": "2026-10-24T12:42:42.355Z",
+  "lastSuccessfulAt": "2026-10-24T12:42:42.355Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": [
