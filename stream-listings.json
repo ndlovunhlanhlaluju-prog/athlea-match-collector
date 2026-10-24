@@ -1,22 +1,10 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-24T11:52:42.800Z",
-  "lastSuccessfulAt": "2026-10-24T11:52:42.800Z",
+  "checkedAt": "2026-10-24T12:24:47.373Z",
+  "lastSuccessfulAt": "2026-10-24T12:24:47.373Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": [
-    {
-      "id": "4368566",
-      "title": "Chicago Red Stars (w) v Houston Dash (w)",
-      "home": "Chicago Red Stars (w)",
-      "away": "Houston Dash (w)",
-      "league": "United States Women's National Soccer League",
-      "kickoff": "2026-10-24T00:00:00.000Z",
-      "status": "finished",
-      "source": "RBTV+",
-      "homeScore": 1,
-      "awayScore": 3
-    },
     {
       "id": "4368520",
       "title": "Portland Thorns FC (w) v North Carolina (w)",
@@ -132,8 +120,7 @@
       "away": "RCD Espanyol (w)",
       "league": "Spanish Primera División de la Liga de Fútbol Femenino",
       "kickoff": "2026-10-24T10:00:00.000Z",
-      "status": "live",
-      "url": "https://www.fctv33go.sbs/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4468159/real-sociedad-women-vs-rcd-espanyol-women-10-2026.html",
+      "status": "finished",
       "source": "RBTV+",
       "homeScore": 1,
       "awayScore": 1
@@ -145,8 +132,7 @@
       "away": "Sevilla FC (w)",
       "league": "Spanish Primera División de la Liga de Fútbol Femenino",
       "kickoff": "2026-10-24T10:00:00.000Z",
-      "status": "live",
-      "url": "https://www.fctv33go.sbs/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4468216/athletic-club-women-vs-sevilla-fc-women-10-2026.html",
+      "status": "finished",
       "source": "RBTV+",
       "homeScore": 0,
       "awayScore": 0
@@ -161,7 +147,7 @@
       "status": "live",
       "url": "https://www.fctv33go.sbs/football/italian-womens-serie-a-match-4466495/ac-milan-women-vs-ternana-w-10-2026.html",
       "source": "RBTV+",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 0
     },
     {
@@ -174,30 +160,8 @@
       "status": "live",
       "url": "https://www.fctv33go.sbs/football/english-fa-womens-super-league-match-4461064/tottenham-hotspur-women-vs-arsenal-women-10-2026.html",
       "source": "RBTV+",
-      "homeScore": 0,
-      "awayScore": 0
-    },
-    {
-      "id": "4442142",
-      "title": "VfB Stuttgart (W) v Eintracht Frankfurt (w)",
-      "home": "VfB Stuttgart (W)",
-      "away": "Eintracht Frankfurt (w)",
-      "league": "German Frauen Bundesliga",
-      "kickoff": "2026-10-24T12:00:00.000Z",
-      "status": "upcoming",
-      "url": "https://www.fctv33go.sbs/football/german-frauen-bundesliga-match-4442142/vfb-stuttgart-w-vs-eintracht-frankfurt-women-10-2026.html",
-      "source": "RBTV+"
-    },
-    {
-      "id": "4523407",
-      "title": "FUS Rabat (W) v WAC Casablanca (W)",
-      "home": "FUS Rabat (W)",
-      "away": "WAC Casablanca (W)",
-      "league": "Division 1 Féminin",
-      "kickoff": "2026-10-24T12:00:00.000Z",
-      "status": "upcoming",
-      "url": "https://www.fctv33go.sbs/football/division-1-feminin-match-4523407/fus-rabat-w-vs-wac-casablanca-w-10-2026.html",
-      "source": "RBTV+"
+      "homeScore": 1,
+      "awayScore": 1
     },
     {
       "id": "4329135",
@@ -461,6 +425,28 @@
       "kickoff": "2026-10-25T07:00:00.000Z",
       "status": "upcoming",
       "url": "https://www.fctv33go.sbs/football/fifa-womens-champions-cup-match-4519884/naegohyang-women-vs-auckland-united-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4466486",
+      "title": "Lazio (w) v Como 2000 (w)",
+      "home": "Lazio (w)",
+      "away": "Como 2000 (w)",
+      "league": "Italian Women's Serie A",
+      "kickoff": "2026-10-25T11:30:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/italian-womens-serie-a-match-4466486/lazio-women-vs-como-2000-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4468157",
+      "title": "Deportivo La Coruna W v CD Alaves (w)",
+      "home": "Deportivo La Coruna W",
+      "away": "CD Alaves (w)",
+      "league": "Spanish Primera División de la Liga de Fútbol Femenino",
+      "kickoff": "2026-10-25T11:45:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4468157/deportivo-la-coruna-women-vs-cd-alaves-women-10-2026.html",
       "source": "RBTV+"
     }
   ]
