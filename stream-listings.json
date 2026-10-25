@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-10-25T17:38:00.193Z",
+    "lastSuccessfulAt": "2026-10-25T20:01:59.320Z",
     "items": [
       {
         "home": "Crystal Palace (W)",
@@ -70,8 +70,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-10-25T17:38:00.193Z",
-  "lastSuccessfulAt": "2026-10-25T17:38:00.193Z",
+  "checkedAt": "2026-10-25T20:01:59.320Z",
+  "lastSuccessfulAt": "2026-10-25T20:01:59.320Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
