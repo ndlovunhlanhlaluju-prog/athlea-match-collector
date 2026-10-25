@@ -1,26 +1,8 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-10-25T09:23:34.415Z",
+    "lastSuccessfulAt": "2026-10-25T13:54:59.973Z",
     "items": [
-      {
-        "home": "Denver Summit FC (W)",
-        "away": "Racing Louisville FC (W)",
-        "league": "National Women's Soccer League",
-        "kickoff": "2026-10-24T22:30Z",
-        "url": "https://www.808fubo29.com/football/2957084-denver-summit-w-vs-racing-louisville-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
-      {
-        "home": "Angel City FC (W)",
-        "away": "Bay FC (W)",
-        "league": "National Women's Soccer League",
-        "kickoff": "2026-10-25T00:45Z",
-        "url": "https://www.808fubo29.com/football/2957085-angel-city-fc-w-vs-bay-fc-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
       {
         "home": "Crystal Palace (W)",
         "away": "Chelsea (W)",
@@ -87,71 +69,11 @@
     ]
   },
   "status": "ok",
-  "checkedAt": "2026-10-25T09:23:15.697Z",
-  "lastSuccessfulAt": "2026-10-25T09:23:15.697Z",
+  "checkedAt": "2026-10-25T13:54:44.570Z",
+  "lastSuccessfulAt": "2026-10-25T13:54:44.570Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": [
-    {
-      "id": "4371052",
-      "title": "Denver Summit W v Racing Louisville (W)",
-      "home": "Denver Summit W",
-      "away": "Racing Louisville (W)",
-      "league": "United States Women's National Soccer League",
-      "kickoff": "2026-10-24T22:30:00.000Z",
-      "status": "finished",
-      "source": "RBTV+",
-      "homeScore": 6,
-      "awayScore": 1
-    },
-    {
-      "id": "4518308",
-      "title": "Wellington Phoenix (W) v Melbourne Victory (w)",
-      "home": "Wellington Phoenix (W)",
-      "away": "Melbourne Victory (w)",
-      "league": "Australia W-League",
-      "kickoff": "2026-10-24T23:15:00.000Z",
-      "status": "finished",
-      "source": "RBTV+",
-      "homeScore": 1,
-      "awayScore": 1
-    },
-    {
-      "id": "4368495",
-      "title": "Angel City FC (W) v Bay FC (w)",
-      "home": "Angel City FC (W)",
-      "away": "Bay FC (w)",
-      "league": "United States Women's National Soccer League",
-      "kickoff": "2026-10-25T00:45:00.000Z",
-      "status": "finished",
-      "source": "RBTV+",
-      "homeScore": 2,
-      "awayScore": 0
-    },
-    {
-      "id": "4455881",
-      "title": "Juarez FC (w) v Queretaro (w)",
-      "home": "Juarez FC (w)",
-      "away": "Queretaro (w)",
-      "league": "Mexico Liga MX Femenil",
-      "kickoff": "2026-10-25T01:00:00.000Z",
-      "status": "finished",
-      "source": "RBTV+",
-      "homeScore": 2,
-      "awayScore": 1
-    },
-    {
-      "id": "4521837",
-      "title": "Southern United (NZL)(w) v Canterbury United (w)",
-      "home": "Southern United (NZL)(w)",
-      "away": "Canterbury United (w)",
-      "league": "New Zealand Women's Premier Division",
-      "kickoff": "2026-10-25T01:00:00.000Z",
-      "status": "finished",
-      "source": "RBTV+",
-      "homeScore": 1,
-      "awayScore": 0
-    },
     {
       "id": "4478153",
       "title": "Omiya Ardija Ventus v Cerezo Osaka Sakai",
@@ -189,26 +111,16 @@
       "awayScore": 0
     },
     {
-      "id": "4524092",
-      "title": "persita v DEWA UNITED",
-      "home": "persita",
-      "away": "DEWA UNITED",
-      "league": "INDONESIA WOMEN'S LEAGUE 26/27",
-      "kickoff": "2026-10-25T08:15:00.000Z",
-      "status": "upcoming",
-      "url": "https://www.fctv33go.sbs/football/indonesia-womens-league-26-27-match-4524092/persita-vs-dewa-united-10-2026.html",
-      "source": "RBTV+"
-    },
-    {
       "id": "4466486",
       "title": "Lazio (w) v Como 2000 (w)",
       "home": "Lazio (w)",
       "away": "Como 2000 (w)",
       "league": "Italian Women's Serie A",
       "kickoff": "2026-10-25T11:30:00.000Z",
-      "status": "upcoming",
-      "url": "https://www.fctv33go.sbs/football/italian-womens-serie-a-match-4466486/lazio-women-vs-como-2000-women-10-2026.html",
-      "source": "RBTV+"
+      "status": "finished",
+      "source": "RBTV+",
+      "homeScore": 0,
+      "awayScore": 0
     },
     {
       "id": "4468157",
@@ -217,31 +129,10 @@
       "away": "CD Alaves (w)",
       "league": "Spanish Primera División de la Liga de Fútbol Femenino",
       "kickoff": "2026-10-25T11:45:00.000Z",
-      "status": "upcoming",
-      "url": "https://www.fctv33go.sbs/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4468157/deportivo-la-coruna-women-vs-cd-alaves-women-10-2026.html",
-      "source": "RBTV+"
-    },
-    {
-      "id": "4524093",
-      "title": "GARUDAYAKSA FC v FC BEKASI CITY",
-      "home": "GARUDAYAKSA FC",
-      "away": "FC BEKASI CITY",
-      "league": "INDONESIA WOMEN'S LEAGUE 26/27",
-      "kickoff": "2026-10-25T11:50:00.000Z",
-      "status": "upcoming",
-      "url": "https://www.fctv33go.sbs/football/indonesia-womens-league-26-27-match-4524093/garudayaksa-fc-vs-fc-bekasi-city-10-2026.html",
-      "source": "RBTV+"
-    },
-    {
-      "id": "4329042",
-      "title": "AIK Solna (w) v FC Rosengard (w)",
-      "home": "AIK Solna (w)",
-      "away": "FC Rosengard (w)",
-      "league": "Sweden Damallsvenskan",
-      "kickoff": "2026-10-25T12:00:00.000Z",
-      "status": "upcoming",
-      "url": "https://www.fctv33go.sbs/football/sweden-damallsvenskan-match-4329042/aik-solna-women-vs-fc-rosengard-women-10-2026.html",
-      "source": "RBTV+"
+      "status": "finished",
+      "source": "RBTV+",
+      "homeScore": 2,
+      "awayScore": 1
     },
     {
       "id": "4461093",
@@ -250,9 +141,11 @@
       "away": "Chelsea FC (w)",
       "league": "English FA Women's Super League",
       "kickoff": "2026-10-25T12:00:00.000Z",
-      "status": "upcoming",
+      "status": "live",
       "url": "https://www.fctv33go.sbs/football/english-fa-womens-super-league-match-4461093/crystal-palace-women-vs-chelsea-fc-women-10-2026.html",
-      "source": "RBTV+"
+      "source": "RBTV+",
+      "homeScore": 1,
+      "awayScore": 3
     },
     {
       "id": "4523238",
@@ -261,9 +154,10 @@
       "away": "Hashtag United (W)",
       "league": "English FA Women's Cup",
       "kickoff": "2026-10-25T12:00:00.000Z",
-      "status": "upcoming",
-      "url": "https://www.fctv33go.sbs/football/english-fa-womens-cup-match-4523238/exeter-city-women-vs-hashtag-united-women-10-2026.html",
-      "source": "RBTV+"
+      "status": "finished",
+      "source": "RBTV+",
+      "homeScore": 2,
+      "awayScore": 0
     },
     {
       "id": "4461062",
@@ -428,6 +322,39 @@
       "kickoff": "2026-10-26T00:06:00.000Z",
       "status": "upcoming",
       "url": "https://www.fctv33go.sbs/football/mexico-liga-mx-femenil-match-4455851/tigres-women-vs-monterrey-women-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4517739",
+      "title": "Yunnan Jiashijing (w) v Shandong Jinghua Women B",
+      "home": "Yunnan Jiashijing (w)",
+      "away": "Shandong Jinghua Women B",
+      "league": "CFA Women's League One",
+      "kickoff": "2026-10-26T06:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/cfa-womens-league-one-match-4517739/shanxi-xihua-women-vs-shandong-jinghua-women-b-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4517740",
+      "title": "Zhanjiang Yuezhan Women v Zhejiang Hangzhou Women B",
+      "home": "Zhanjiang Yuezhan Women",
+      "away": "Zhejiang Hangzhou Women B",
+      "league": "CFA Women's League One",
+      "kickoff": "2026-10-26T06:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/cfa-womens-league-one-match-4517740/zhanjiang-yuezhan-women-vs-zhejiang-hangzhou-women-b-10-2026.html",
+      "source": "RBTV+"
+    },
+    {
+      "id": "4517741",
+      "title": "Dalian Football School Women v Tianjin Shengde (w)",
+      "home": "Dalian Football School Women",
+      "away": "Tianjin Shengde (w)",
+      "league": "CFA Women's League One",
+      "kickoff": "2026-10-26T06:00:00.000Z",
+      "status": "upcoming",
+      "url": "https://www.fctv33go.sbs/football/cfa-womens-league-one-match-4517741/dalian-football-school-women-vs-tianjin-shengde-women-10-2026.html",
       "source": "RBTV+"
     }
   ]
