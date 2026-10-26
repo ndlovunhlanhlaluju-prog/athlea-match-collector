@@ -1,35 +1,8 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-10-26T00:42:59.292Z",
+    "lastSuccessfulAt": "2026-10-26T05:29:16.261Z",
     "items": [
-      {
-        "home": "Everton (W)",
-        "away": "Aston Villa (W)",
-        "league": "English Women's Super League",
-        "kickoff": "2026-10-25T14:00Z",
-        "url": "https://www.808fubo29.com/football/3051993-everton-fc-w-vs-aston-villa-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
-      {
-        "home": "Liverpool (W)",
-        "away": "London City Lionesses (W)",
-        "league": "English Women's Super League",
-        "kickoff": "2026-10-25T14:00Z",
-        "url": "https://www.808fubo29.com/football/3051994-liverpool-w-vs-london-city-lionesses-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
-      {
-        "home": "Eibar (W)",
-        "away": "Madrid CFF (W)",
-        "league": "Spanish Liga F Women",
-        "kickoff": "2026-10-25T16:00Z",
-        "url": "https://www.808fubo29.com/football/3057214-eibar-w-vs-madrid-cff-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
       {
         "home": "Manchester United (W)",
         "away": "Manchester City (W)",
@@ -97,8 +70,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-10-26T00:42:59.292Z",
-  "lastSuccessfulAt": "2026-10-26T00:42:59.292Z",
+  "checkedAt": "2026-10-26T05:29:16.261Z",
+  "lastSuccessfulAt": "2026-10-26T05:29:16.261Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
