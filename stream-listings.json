@@ -1,17 +1,8 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-10-25T22:31:26.634Z",
+    "lastSuccessfulAt": "2026-10-26T00:42:59.292Z",
     "items": [
-      {
-        "home": "Crystal Palace (W)",
-        "away": "Chelsea (W)",
-        "league": "English Women's Super League",
-        "kickoff": "2026-10-25T12:00Z",
-        "url": "https://www.808fubo29.com/football/3051992-crystalpalace-w-vs-chelsea-fc-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
       {
         "home": "Everton (W)",
         "away": "Aston Villa (W)",
@@ -65,13 +56,49 @@
         "url": "https://www.808fubo29.com/football/2957088-san-diego-wave-w-vs-boston-legacy-w.html",
         "availability": "unconfirmed",
         "verification": "index"
+      },
+      {
+        "home": "Chelsea (W)",
+        "away": "Roma (W)",
+        "league": "UEFA Women's Champions League",
+        "kickoff": "2026-10-28T17:45Z",
+        "url": "https://www.808fubo29.com/football/3092367-chelsea-fc-w-vs-as-roma-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "London City Lionesses (W)",
+        "away": "Crystal Palace (W)",
+        "league": "Subway Players Cup Women",
+        "kickoff": "2026-10-28T19:00Z",
+        "url": "https://www.808fubo29.com/football/3058956-london-city-lionesses-w-vs-crystalpalace-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Manchester United (W)",
+        "away": "Burnley (W)",
+        "league": "Subway Players Cup Women",
+        "kickoff": "2026-10-28T19:00Z",
+        "url": "https://www.808fubo29.com/football/3058957-manchester-united-w-vs-burnley-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Sheffield United (W)",
+        "away": "Everton (W)",
+        "league": "Subway Players Cup Women",
+        "kickoff": "2026-10-28T19:00Z",
+        "url": "https://www.808fubo29.com/football/3058958-sheffield-united---w-vs-everton-fc-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
       }
     ]
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-10-25T22:31:26.634Z",
-  "lastSuccessfulAt": "2026-10-25T22:31:26.634Z",
+  "checkedAt": "2026-10-26T00:42:59.292Z",
+  "lastSuccessfulAt": "2026-10-26T00:42:59.292Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
