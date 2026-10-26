@@ -1,35 +1,8 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-10-26T05:29:16.261Z",
+    "lastSuccessfulAt": "2026-10-26T11:31:38.458Z",
     "items": [
-      {
-        "home": "Manchester United (W)",
-        "away": "Manchester City (W)",
-        "league": "English Women's Super League",
-        "kickoff": "2026-10-25T18:00Z",
-        "url": "https://www.808fubo29.com/football/3051989-manchester-united-w-vs-manchester-city-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
-      {
-        "home": "Orlando Pride (W)",
-        "away": "Gotham FC (W)",
-        "league": "National Women's Soccer League",
-        "kickoff": "2026-10-25T19:00Z",
-        "url": "https://www.808fubo29.com/football/2957086-orlando-pride-w-vs-gotham-fc-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
-      {
-        "home": "San Diego Wave FC (W)",
-        "away": "Boston Legacy FC (W)",
-        "league": "National Women's Soccer League",
-        "kickoff": "2026-10-25T23:00Z",
-        "url": "https://www.808fubo29.com/football/2957088-san-diego-wave-w-vs-boston-legacy-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
       {
         "home": "Chelsea (W)",
         "away": "Roma (W)",
@@ -70,8 +43,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-10-26T05:29:16.261Z",
-  "lastSuccessfulAt": "2026-10-26T05:29:16.261Z",
+  "checkedAt": "2026-10-26T11:31:38.458Z",
+  "lastSuccessfulAt": "2026-10-26T11:31:38.458Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
