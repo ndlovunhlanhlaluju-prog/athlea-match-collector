@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-10-26T21:56:48.628Z",
+    "lastSuccessfulAt": "2026-10-27T01:27:18.179Z",
     "items": [
       {
         "home": "Chelsea (W)",
@@ -38,13 +38,31 @@
         "url": "https://www.808fubo29.com/football/3058958-sheffield-united---w-vs-everton-fc-w.html",
         "availability": "unconfirmed",
         "verification": "index"
+      },
+      {
+        "home": "Paris FC (W)",
+        "away": "BK Häcken (W)",
+        "league": "UEFA Women's Champions League",
+        "kickoff": "2026-10-29T17:45Z",
+        "url": "https://www.808fubo29.com/football/3092372-paris-fc-w-vs-bk-hacken-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Manchester City (W)",
+        "away": "Paris Saint-Germain (W)",
+        "league": "UEFA Women's Champions League",
+        "kickoff": "2026-10-29T20:00Z",
+        "url": "https://www.808fubo29.com/football/3092374-manchester-city-w-vs-paris-saint-germain-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
       }
     ]
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-10-26T21:56:48.628Z",
-  "lastSuccessfulAt": "2026-10-26T21:56:48.628Z",
+  "checkedAt": "2026-10-27T01:27:18.179Z",
+  "lastSuccessfulAt": "2026-10-27T01:27:18.179Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
