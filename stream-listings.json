@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-10-28T07:34:21.447Z",
+    "lastSuccessfulAt": "2026-10-28T14:30:09.887Z",
     "items": [
       {
         "home": "Chelsea (W)",
@@ -61,8 +61,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-10-28T07:34:21.447Z",
-  "lastSuccessfulAt": "2026-10-28T07:34:21.447Z",
+  "checkedAt": "2026-10-28T14:30:09.887Z",
+  "lastSuccessfulAt": "2026-10-28T14:30:09.887Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
