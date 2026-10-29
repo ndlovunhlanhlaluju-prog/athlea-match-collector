@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-10-28T23:47:55.591Z",
+    "lastSuccessfulAt": "2026-10-29T02:57:35.454Z",
     "items": [
       {
         "home": "Chelsea (W)",
@@ -56,13 +56,31 @@
         "url": "https://www.808fubo29.com/football/3092374-manchester-city-w-vs-paris-saint-germain-w.html",
         "availability": "unconfirmed",
         "verification": "index"
+      },
+      {
+        "home": "Everton (W)",
+        "away": "Manchester United (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-10-31T12:45Z",
+        "url": "https://www.808fubo29.com/football/3051996-everton-fc-w-vs-manchester-united-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Watford (W)",
+        "away": "Ipswich Town (W)",
+        "league": "Subway Players Cup Women",
+        "kickoff": "2026-10-31T15:00Z",
+        "url": "https://www.808fubo29.com/football/3058962-watford-w-vs-ipswich-town-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
       }
     ]
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-10-28T23:47:55.591Z",
-  "lastSuccessfulAt": "2026-10-28T23:47:55.591Z",
+  "checkedAt": "2026-10-29T02:57:35.454Z",
+  "lastSuccessfulAt": "2026-10-29T02:57:35.454Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
