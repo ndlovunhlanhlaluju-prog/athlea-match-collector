@@ -1,44 +1,8 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-10-29T02:57:35.454Z",
+    "lastSuccessfulAt": "2026-10-29T09:51:36.642Z",
     "items": [
-      {
-        "home": "Chelsea (W)",
-        "away": "Roma (W)",
-        "league": "UEFA Women's Champions League",
-        "kickoff": "2026-10-28T17:45Z",
-        "url": "https://www.808fubo29.com/football/3092367-chelsea-fc-w-vs-as-roma-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
-      {
-        "home": "London City Lionesses (W)",
-        "away": "Crystal Palace (W)",
-        "league": "Subway Players Cup Women",
-        "kickoff": "2026-10-28T19:00Z",
-        "url": "https://www.808fubo29.com/football/3058956-london-city-lionesses-w-vs-crystalpalace-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
-      {
-        "home": "Manchester United (W)",
-        "away": "Burnley (W)",
-        "league": "Subway Players Cup Women",
-        "kickoff": "2026-10-28T19:00Z",
-        "url": "https://www.808fubo29.com/football/3058957-manchester-united-w-vs-burnley-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
-      {
-        "home": "Sheffield United (W)",
-        "away": "Everton (W)",
-        "league": "Subway Players Cup Women",
-        "kickoff": "2026-10-28T19:00Z",
-        "url": "https://www.808fubo29.com/football/3058958-sheffield-united---w-vs-everton-fc-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
       {
         "home": "Paris FC (W)",
         "away": "BK Häcken (W)",
@@ -79,8 +43,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-10-29T02:57:35.454Z",
-  "lastSuccessfulAt": "2026-10-29T02:57:35.454Z",
+  "checkedAt": "2026-10-29T09:51:36.642Z",
+  "lastSuccessfulAt": "2026-10-29T09:51:36.642Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
