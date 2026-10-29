@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-10-29T09:51:36.642Z",
+    "lastSuccessfulAt": "2026-10-29T16:33:24.271Z",
     "items": [
       {
         "home": "Paris FC (W)",
@@ -43,8 +43,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-10-29T09:51:36.642Z",
-  "lastSuccessfulAt": "2026-10-29T09:51:36.642Z",
+  "checkedAt": "2026-10-29T16:33:24.271Z",
+  "lastSuccessfulAt": "2026-10-29T16:33:24.271Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
