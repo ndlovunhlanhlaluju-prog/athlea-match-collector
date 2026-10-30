@@ -1,17 +1,8 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-10-30T07:25:18.823Z",
+    "lastSuccessfulAt": "2026-10-30T14:31:13.323Z",
     "items": [
-      {
-        "home": "Manchester City (W)",
-        "away": "Paris Saint-Germain (W)",
-        "league": "UEFA Women's Champions League",
-        "kickoff": "2026-10-29T20:00Z",
-        "url": "https://www.808fubo29.com/football/3092374-manchester-city-w-vs-paris-saint-germain-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
       {
         "home": "Everton (W)",
         "away": "Manchester United (W)",
@@ -151,8 +142,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-10-30T07:25:18.823Z",
-  "lastSuccessfulAt": "2026-10-30T07:25:18.823Z",
+  "checkedAt": "2026-10-30T14:31:13.323Z",
+  "lastSuccessfulAt": "2026-10-30T14:31:13.323Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
