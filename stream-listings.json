@@ -1,17 +1,8 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-10-30T01:21:02.754Z",
+    "lastSuccessfulAt": "2026-10-30T07:25:18.823Z",
     "items": [
-      {
-        "home": "Paris FC (W)",
-        "away": "BK Häcken (W)",
-        "league": "UEFA Women's Champions League",
-        "kickoff": "2026-10-29T17:45Z",
-        "url": "https://www.808fubo29.com/football/3092372-paris-fc-w-vs-bk-hacken-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
       {
         "home": "Manchester City (W)",
         "away": "Paris Saint-Germain (W)",
@@ -160,8 +151,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-10-30T01:21:02.754Z",
-  "lastSuccessfulAt": "2026-10-30T01:21:02.754Z",
+  "checkedAt": "2026-10-30T07:25:18.823Z",
+  "lastSuccessfulAt": "2026-10-30T07:25:18.823Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
