@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-10-29T21:25:42.715Z",
+    "lastSuccessfulAt": "2026-10-30T01:21:02.754Z",
     "items": [
       {
         "home": "Paris FC (W)",
@@ -38,13 +38,130 @@
         "url": "https://www.808fubo29.com/football/3058962-watford-w-vs-ipswich-town-w.html",
         "availability": "unconfirmed",
         "verification": "index"
+      },
+      {
+        "home": "Arsenal (W)",
+        "away": "Aston Villa (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-11-01T12:00Z",
+        "url": "https://www.808fubo29.com/football/3051997-arsenal-w-vs-aston-villa-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "London City Lionesses (W)",
+        "away": "Manchester City (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-11-01T12:00Z",
+        "url": "https://www.808fubo29.com/football/3052001-london-city-lionesses-w-vs-manchester-city-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Brighton & Hove Albion (W)",
+        "away": "Crystal Palace (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-11-01T14:00Z",
+        "url": "https://www.808fubo29.com/football/3051999-brighton-ha-w-vs-crystalpalace-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "West Ham United (W)",
+        "away": "Liverpool (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-11-01T14:00Z",
+        "url": "https://www.808fubo29.com/football/3052002-west-ham-united-w-vs-liverpool-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Southampton (W)",
+        "away": "Leicester City (W)",
+        "league": "Subway Players Cup Women",
+        "kickoff": "2026-11-01T14:00Z",
+        "url": "https://www.808fubo29.com/football/3058965-southampton-w-vs-leicester-city-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Sunderland (W)",
+        "away": "Sheffield United (W)",
+        "league": "Subway Players Cup Women",
+        "kickoff": "2026-11-01T14:00Z",
+        "url": "https://www.808fubo29.com/football/3058966-sunderland-w-vs-sheffield-united---w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Sevilla (W)",
+        "away": "Real Madrid (W)",
+        "league": "Spanish Liga F Women",
+        "kickoff": "2026-11-01T18:00Z",
+        "url": "https://www.808fubo29.com/football/3057223-sevilla-fc-w-vs-real-madrid-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Angel City FC (W)",
+        "away": "Boston Legacy FC (W)",
+        "league": "National Women's Soccer League",
+        "kickoff": "2026-11-01T22:00Z",
+        "url": "https://www.808fubo29.com/football/2957089-angel-city-fc-w-vs-boston-legacy-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Bay FC (W)",
+        "away": "San Diego Wave FC (W)",
+        "league": "National Women's Soccer League",
+        "kickoff": "2026-11-01T22:00Z",
+        "url": "https://www.808fubo29.com/football/2957090-bay-fc-w-vs-san-diego-wave-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Gotham FC (W)",
+        "away": "Utah Royals (W)",
+        "league": "National Women's Soccer League",
+        "kickoff": "2026-11-01T22:00Z",
+        "url": "https://www.808fubo29.com/football/2957091-gotham-fc-w-vs-utah-royals-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Houston Dash (W)",
+        "away": "Portland Thorns FC (W)",
+        "league": "National Women's Soccer League",
+        "kickoff": "2026-11-01T22:00Z",
+        "url": "https://www.808fubo29.com/football/2957092-houston-dash-w-vs-portland-thorns-fc-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "North Carolina Courage (W)",
+        "away": "Denver Summit FC (W)",
+        "league": "National Women's Soccer League",
+        "kickoff": "2026-11-01T22:00Z",
+        "url": "https://www.808fubo29.com/football/2957093-north-carolina-w-vs-denver-summit-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Seattle Reign FC (W)",
+        "away": "Orlando Pride (W)",
+        "league": "National Women's Soccer League",
+        "kickoff": "2026-11-01T22:00Z",
+        "url": "https://www.808fubo29.com/football/2957095-seattle-reign-w-vs-orlando-pride-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
       }
     ]
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-10-29T21:25:42.715Z",
-  "lastSuccessfulAt": "2026-10-29T21:25:42.715Z",
+  "checkedAt": "2026-10-30T01:21:02.754Z",
+  "lastSuccessfulAt": "2026-10-30T01:21:02.754Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
