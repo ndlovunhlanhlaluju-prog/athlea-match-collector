@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-10-31T19:15:55.160Z",
+    "lastSuccessfulAt": "2026-10-31T22:37:22.299Z",
     "items": [
       {
         "home": "Everton (W)",
@@ -142,8 +142,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-10-31T19:15:55.160Z",
-  "lastSuccessfulAt": "2026-10-31T19:15:55.160Z",
+  "checkedAt": "2026-10-31T22:37:22.299Z",
+  "lastSuccessfulAt": "2026-10-31T22:37:22.299Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
