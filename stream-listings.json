@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-01T08:06:55.383Z",
+    "lastSuccessfulAt": "2026-11-01T15:06:25.506Z",
     "items": [
       {
         "home": "Arsenal (W)",
@@ -124,8 +124,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-01T08:06:55.383Z",
-  "lastSuccessfulAt": "2026-11-01T08:06:55.383Z",
+  "checkedAt": "2026-11-01T15:06:25.506Z",
+  "lastSuccessfulAt": "2026-11-01T15:06:25.506Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
