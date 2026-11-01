@@ -1,17 +1,8 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-01T01:29:09.641Z",
+    "lastSuccessfulAt": "2026-11-01T08:06:55.383Z",
     "items": [
-      {
-        "home": "Watford (W)",
-        "away": "Ipswich Town (W)",
-        "league": "Subway Players Cup Women",
-        "kickoff": "2026-10-31T15:00Z",
-        "url": "https://www.808fubo29.com/football/3058962-watford-w-vs-ipswich-town-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
       {
         "home": "Arsenal (W)",
         "away": "Aston Villa (W)",
@@ -133,8 +124,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-01T01:29:09.641Z",
-  "lastSuccessfulAt": "2026-11-01T01:29:09.641Z",
+  "checkedAt": "2026-11-01T08:06:55.383Z",
+  "lastSuccessfulAt": "2026-11-01T08:06:55.383Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
