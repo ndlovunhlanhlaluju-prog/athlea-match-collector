@@ -1,62 +1,8 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-01T23:09:48.889Z",
+    "lastSuccessfulAt": "2026-11-02T02:37:59.366Z",
     "items": [
-      {
-        "home": "Arsenal (W)",
-        "away": "Aston Villa (W)",
-        "league": "English Women's Super League",
-        "kickoff": "2026-11-01T12:00Z",
-        "url": "https://www.808fubo29.com/football/3051997-arsenal-w-vs-aston-villa-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
-      {
-        "home": "London City Lionesses (W)",
-        "away": "Manchester City (W)",
-        "league": "English Women's Super League",
-        "kickoff": "2026-11-01T12:00Z",
-        "url": "https://www.808fubo29.com/football/3052001-london-city-lionesses-w-vs-manchester-city-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
-      {
-        "home": "Brighton & Hove Albion (W)",
-        "away": "Crystal Palace (W)",
-        "league": "English Women's Super League",
-        "kickoff": "2026-11-01T14:00Z",
-        "url": "https://www.808fubo29.com/football/3051999-brighton-ha-w-vs-crystalpalace-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
-      {
-        "home": "West Ham United (W)",
-        "away": "Liverpool (W)",
-        "league": "English Women's Super League",
-        "kickoff": "2026-11-01T14:00Z",
-        "url": "https://www.808fubo29.com/football/3052002-west-ham-united-w-vs-liverpool-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
-      {
-        "home": "Southampton (W)",
-        "away": "Leicester City (W)",
-        "league": "Subway Players Cup Women",
-        "kickoff": "2026-11-01T14:00Z",
-        "url": "https://www.808fubo29.com/football/3058965-southampton-w-vs-leicester-city-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
-      {
-        "home": "Sunderland (W)",
-        "away": "Sheffield United (W)",
-        "league": "Subway Players Cup Women",
-        "kickoff": "2026-11-01T14:00Z",
-        "url": "https://www.808fubo29.com/football/3058966-sunderland-w-vs-sheffield-united---w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
       {
         "home": "Sevilla (W)",
         "away": "Real Madrid (W)",
@@ -124,8 +70,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-01T23:09:48.889Z",
-  "lastSuccessfulAt": "2026-11-01T23:09:48.889Z",
+  "checkedAt": "2026-11-02T02:37:59.366Z",
+  "lastSuccessfulAt": "2026-11-02T02:37:59.366Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
