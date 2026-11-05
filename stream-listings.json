@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-04T23:36:31.537Z",
+    "lastSuccessfulAt": "2026-11-05T03:44:19.995Z",
     "items": [
       {
         "home": "San Diego Wave FC (W)",
@@ -11,13 +11,40 @@
         "url": "https://www.808fubo29.com/football/3109729-san-diego-wave-w-vs-utah-royals-w.html",
         "availability": "unconfirmed",
         "verification": "index"
+      },
+      {
+        "home": "Chelsea (W)",
+        "away": "Everton (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-11-07T12:45Z",
+        "url": "https://www.808fubo29.com/football/3052006-chelsea-fc-w-vs-everton-fc-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Manchester City (W)",
+        "away": "West Ham United (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-11-07T12:45Z",
+        "url": "https://www.808fubo29.com/football/3052007-manchester-city-w-vs-west-ham-united-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Eibar (W)",
+        "away": "Real Sociedad (W)",
+        "league": "Spanish Liga F Women",
+        "kickoff": "2026-11-07T16:15Z",
+        "url": "https://www.808fubo29.com/football/3057231-eibar-w-vs-real-sociedad-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
       }
     ]
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-04T23:36:31.537Z",
-  "lastSuccessfulAt": "2026-11-04T23:36:31.537Z",
+  "checkedAt": "2026-11-05T03:44:19.995Z",
+  "lastSuccessfulAt": "2026-11-05T03:44:19.995Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
