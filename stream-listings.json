@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-06T07:02:51.089Z",
+    "lastSuccessfulAt": "2026-11-06T14:58:27.185Z",
     "items": [
       {
         "home": "San Diego Wave FC (W)",
@@ -34,7 +34,7 @@
         "home": "Eibar (W)",
         "away": "Real Sociedad (W)",
         "league": "Spanish Liga F Women",
-        "kickoff": "2026-11-07T16:15Z",
+        "kickoff": "2026-11-07T16:00Z",
         "url": "https://www.808fubo29.com/football/3057231-eibar-w-vs-real-sociedad-w.html",
         "availability": "unconfirmed",
         "verification": "index"
@@ -97,8 +97,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-06T07:02:51.089Z",
-  "lastSuccessfulAt": "2026-11-06T07:02:51.089Z",
+  "checkedAt": "2026-11-06T14:58:27.185Z",
+  "lastSuccessfulAt": "2026-11-06T14:58:27.185Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
