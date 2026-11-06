@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-05T19:05:35.361Z",
+    "lastSuccessfulAt": "2026-11-06T00:12:02.559Z",
     "items": [
       {
         "home": "San Diego Wave FC (W)",
@@ -38,13 +38,67 @@
         "url": "https://www.808fubo29.com/football/3057231-eibar-w-vs-real-sociedad-w.html",
         "availability": "unconfirmed",
         "verification": "index"
+      },
+      {
+        "home": "Liverpool (W)",
+        "away": "Arsenal (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-11-08T12:00Z",
+        "url": "https://www.808fubo29.com/football/3052003-liverpool-w-vs-arsenal-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Aston Villa (W)",
+        "away": "Manchester United (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-11-08T12:00Z",
+        "url": "https://www.808fubo29.com/football/3052005-aston-villa-w-vs-manchester-united-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Tottenham Hotspur (W)",
+        "away": "Brighton & Hove Albion (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-11-08T14:00Z",
+        "url": "https://www.808fubo29.com/football/3052009-tottenham-hotspur--w-vs-brighton-ha-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Barcelona (W)",
+        "away": "Madrid CFF (W)",
+        "league": "Spanish Liga F Women",
+        "kickoff": "2026-11-08T15:00Z",
+        "url": "https://www.808fubo29.com/football/3057227-barcelona-w-vs-madrid-cff-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Gotham FC (W)",
+        "away": "Seattle Reign FC (W)",
+        "league": "National Women's Soccer League",
+        "kickoff": "2026-11-08T17:30Z",
+        "url": "https://www.808fubo29.com/football/3109731-gotham-fc-w-vs-seattle-reign-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Washington Spirit (W)",
+        "away": "Portland Thorns FC (W)",
+        "league": "National Women's Soccer League",
+        "kickoff": "2026-11-08T20:00Z",
+        "url": "https://www.808fubo29.com/football/3109732-washington-spirit-w-vs-portland-thorns-fc-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
       }
     ]
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-05T19:05:35.361Z",
-  "lastSuccessfulAt": "2026-11-05T19:05:35.361Z",
+  "checkedAt": "2026-11-06T00:12:02.559Z",
+  "lastSuccessfulAt": "2026-11-06T00:12:02.559Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
