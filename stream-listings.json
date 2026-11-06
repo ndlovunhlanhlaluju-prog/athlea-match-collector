@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-06T00:12:02.559Z",
+    "lastSuccessfulAt": "2026-11-06T07:02:51.089Z",
     "items": [
       {
         "home": "San Diego Wave FC (W)",
@@ -97,8 +97,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-06T00:12:02.559Z",
-  "lastSuccessfulAt": "2026-11-06T00:12:02.559Z",
+  "checkedAt": "2026-11-06T07:02:51.089Z",
+  "lastSuccessfulAt": "2026-11-06T07:02:51.089Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
