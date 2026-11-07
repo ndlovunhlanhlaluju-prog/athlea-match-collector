@@ -1,17 +1,8 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-07T13:32:06.324Z",
+    "lastSuccessfulAt": "2026-11-07T18:17:45.447Z",
     "items": [
-      {
-        "home": "San Diego Wave FC (W)",
-        "away": "Utah Royals (W)",
-        "league": "National Women's Soccer League",
-        "kickoff": "2026-11-07T03:00Z",
-        "url": "https://www.808fubo29.com/football/3109729-san-diego-wave-w-vs-utah-royals-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
       {
         "home": "Chelsea (W)",
         "away": "Everton (W)",
@@ -97,8 +88,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-07T13:32:06.324Z",
-  "lastSuccessfulAt": "2026-11-07T13:32:06.324Z",
+  "checkedAt": "2026-11-07T18:17:45.447Z",
+  "lastSuccessfulAt": "2026-11-07T18:17:45.447Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
