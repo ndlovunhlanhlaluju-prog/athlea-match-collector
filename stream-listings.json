@@ -1,17 +1,8 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-08T01:23:57.984Z",
+    "lastSuccessfulAt": "2026-11-08T07:56:13.325Z",
     "items": [
-      {
-        "home": "Eibar (W)",
-        "away": "Real Sociedad (W)",
-        "league": "Spanish Liga F Women",
-        "kickoff": "2026-11-07T16:00Z",
-        "url": "https://www.808fubo29.com/football/3057231-eibar-w-vs-real-sociedad-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
       {
         "home": "Liverpool (W)",
         "away": "Arsenal (W)",
@@ -97,8 +88,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-08T01:23:57.984Z",
-  "lastSuccessfulAt": "2026-11-08T01:23:57.984Z",
+  "checkedAt": "2026-11-08T07:56:13.325Z",
+  "lastSuccessfulAt": "2026-11-08T07:56:13.325Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
