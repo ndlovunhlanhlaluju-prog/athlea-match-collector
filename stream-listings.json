@@ -1,26 +1,8 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-07T22:04:13.632Z",
+    "lastSuccessfulAt": "2026-11-08T01:23:57.984Z",
     "items": [
-      {
-        "home": "Chelsea (W)",
-        "away": "Everton (W)",
-        "league": "English Women's Super League",
-        "kickoff": "2026-11-07T12:45Z",
-        "url": "https://www.808fubo29.com/football/3052006-chelsea-fc-w-vs-everton-fc-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
-      {
-        "home": "Manchester City (W)",
-        "away": "West Ham United (W)",
-        "league": "English Women's Super League",
-        "kickoff": "2026-11-07T12:45Z",
-        "url": "https://www.808fubo29.com/football/3052007-manchester-city-w-vs-west-ham-united-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
       {
         "home": "Eibar (W)",
         "away": "Real Sociedad (W)",
@@ -83,13 +65,40 @@
         "url": "https://www.808fubo29.com/football/3109732-washington-spirit-w-vs-portland-thorns-fc-w.html",
         "availability": "unconfirmed",
         "verification": "index"
+      },
+      {
+        "home": "Real Madrid (W)",
+        "away": "Paris FC (W)",
+        "league": "UEFA Women's Champions League",
+        "kickoff": "2026-11-10T17:45Z",
+        "url": "https://www.808fubo29.com/football/3092356-real-madrid-w-vs-paris-fc-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "BK Häcken (W)",
+        "away": "Chelsea (W)",
+        "league": "UEFA Women's Champions League",
+        "kickoff": "2026-11-10T17:45Z",
+        "url": "https://www.808fubo29.com/football/3092376-bk-hacken-w-vs-chelsea-fc-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Roma (W)",
+        "away": "Servette (W)",
+        "league": "UEFA Women's Champions League",
+        "kickoff": "2026-11-10T20:00Z",
+        "url": "https://www.808fubo29.com/football/3092377-as-roma-w-vs-servette-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
       }
     ]
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-07T22:04:13.632Z",
-  "lastSuccessfulAt": "2026-11-07T22:04:13.632Z",
+  "checkedAt": "2026-11-08T01:23:57.984Z",
+  "lastSuccessfulAt": "2026-11-08T01:23:57.984Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
