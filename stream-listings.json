@@ -1,35 +1,8 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-08T23:13:54.504Z",
+    "lastSuccessfulAt": "2026-11-09T02:46:04.924Z",
     "items": [
-      {
-        "home": "Liverpool (W)",
-        "away": "Arsenal (W)",
-        "league": "English Women's Super League",
-        "kickoff": "2026-11-08T12:00Z",
-        "url": "https://www.808fubo29.com/football/3052003-liverpool-w-vs-arsenal-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
-      {
-        "home": "Aston Villa (W)",
-        "away": "Manchester United (W)",
-        "league": "English Women's Super League",
-        "kickoff": "2026-11-08T12:00Z",
-        "url": "https://www.808fubo29.com/football/3052005-aston-villa-w-vs-manchester-united-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
-      {
-        "home": "Tottenham Hotspur (W)",
-        "away": "Brighton & Hove Albion (W)",
-        "league": "English Women's Super League",
-        "kickoff": "2026-11-08T14:00Z",
-        "url": "https://www.808fubo29.com/football/3052009-tottenham-hotspur--w-vs-brighton-ha-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
       {
         "home": "Barcelona (W)",
         "away": "Madrid CFF (W)",
@@ -83,13 +56,40 @@
         "url": "https://www.808fubo29.com/football/3092377-as-roma-w-vs-servette-w.html",
         "availability": "unconfirmed",
         "verification": "index"
+      },
+      {
+        "home": "Liverpool (W)",
+        "away": "Aston Villa (W)",
+        "league": "Subway Players Cup Women",
+        "kickoff": "2026-11-11T19:00Z",
+        "url": "https://www.808fubo29.com/football/3058970-liverpool-w-vs-aston-villa-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Tottenham Hotspur (W)",
+        "away": "Crystal Palace (W)",
+        "league": "Subway Players Cup Women",
+        "kickoff": "2026-11-11T19:00Z",
+        "url": "https://www.808fubo29.com/football/3058971-tottenham-hotspur--w-vs-crystalpalace-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Brighton & Hove Albion (W)",
+        "away": "Watford (W)",
+        "league": "Subway Players Cup Women",
+        "kickoff": "2026-11-11T19:45Z",
+        "url": "https://www.808fubo29.com/football/3058973-brighton-ha-w-vs-watford-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
       }
     ]
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-08T23:13:54.504Z",
-  "lastSuccessfulAt": "2026-11-08T23:13:54.504Z",
+  "checkedAt": "2026-11-09T02:46:04.924Z",
+  "lastSuccessfulAt": "2026-11-09T02:46:04.924Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
