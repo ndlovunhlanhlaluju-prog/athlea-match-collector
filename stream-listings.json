@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-10T11:43:25.952Z",
+    "lastSuccessfulAt": "2026-11-10T18:55:37.036Z",
     "items": [
       {
         "home": "Real Madrid (W)",
@@ -70,8 +70,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-10T11:43:25.952Z",
-  "lastSuccessfulAt": "2026-11-10T11:43:25.952Z",
+  "checkedAt": "2026-11-10T18:55:37.036Z",
+  "lastSuccessfulAt": "2026-11-10T18:55:37.036Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
