@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-09T21:02:52.102Z",
+    "lastSuccessfulAt": "2026-11-10T03:29:32.059Z",
     "items": [
       {
         "home": "Real Madrid (W)",
@@ -56,13 +56,22 @@
         "url": "https://www.808fubo29.com/football/3058973-brighton-ha-w-vs-watford-w.html",
         "availability": "unconfirmed",
         "verification": "index"
+      },
+      {
+        "home": "Barcelona (W)",
+        "away": "Arsenal (W)",
+        "league": "UEFA Women's Champions League",
+        "kickoff": "2026-11-12T17:45Z",
+        "url": "https://www.808fubo29.com/football/3092380-barcelona-w-vs-arsenal-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
       }
     ]
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-09T21:02:52.102Z",
-  "lastSuccessfulAt": "2026-11-09T21:02:52.102Z",
+  "checkedAt": "2026-11-10T03:29:32.059Z",
+  "lastSuccessfulAt": "2026-11-10T03:29:32.059Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
