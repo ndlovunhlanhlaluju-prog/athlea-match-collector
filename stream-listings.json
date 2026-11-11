@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-11T14:08:41.687Z",
+    "lastSuccessfulAt": "2026-11-11T21:28:30.969Z",
     "items": [
       {
         "home": "Liverpool (W)",
@@ -43,8 +43,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-11T14:08:41.687Z",
-  "lastSuccessfulAt": "2026-11-11T14:08:41.687Z",
+  "checkedAt": "2026-11-11T21:28:30.969Z",
+  "lastSuccessfulAt": "2026-11-11T21:28:30.969Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
