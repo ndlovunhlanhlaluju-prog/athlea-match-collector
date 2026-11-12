@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-11T21:28:30.969Z",
+    "lastSuccessfulAt": "2026-11-12T02:29:41.025Z",
     "items": [
       {
         "home": "Liverpool (W)",
@@ -38,13 +38,58 @@
         "url": "https://www.808fubo29.com/football/3092380-barcelona-w-vs-arsenal-w.html",
         "availability": "unconfirmed",
         "verification": "index"
+      },
+      {
+        "home": "Manchester United (W)",
+        "away": "Crystal Palace (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-11-14T12:45Z",
+        "url": "https://www.808fubo29.com/football/3052012-manchester-united-w-vs-crystalpalace-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Chelsea (W)",
+        "away": "Manchester City (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-11-14T13:30Z",
+        "url": "https://www.808fubo29.com/football/3052010-chelsea-fc-w-vs-manchester-city-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Tottenham Hotspur (W)",
+        "away": "Everton (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-11-14T15:00Z",
+        "url": "https://www.808fubo29.com/football/3052014-tottenham-hotspur--w-vs-everton-fc-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Washington Spirit (W)",
+        "away": "Utah Royals (W)",
+        "league": "National Women's Soccer League",
+        "kickoff": "2026-11-14T17:00Z",
+        "url": "https://www.808fubo29.com/football/3112047-washington-spirit-w-vs-utah-royals-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Brighton & Hove Albion (W)",
+        "away": "Liverpool (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-11-14T17:15Z",
+        "url": "https://www.808fubo29.com/football/3052013-brighton-ha-w-vs-liverpool-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
       }
     ]
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-11T21:28:30.969Z",
-  "lastSuccessfulAt": "2026-11-11T21:28:30.969Z",
+  "checkedAt": "2026-11-12T02:29:41.025Z",
+  "lastSuccessfulAt": "2026-11-12T02:29:41.025Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
