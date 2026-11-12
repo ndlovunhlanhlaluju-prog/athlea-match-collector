@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-12T18:27:11.541Z",
+    "lastSuccessfulAt": "2026-11-12T23:51:53.520Z",
     "items": [
       {
         "home": "Barcelona (W)",
@@ -61,8 +61,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-12T18:27:11.541Z",
-  "lastSuccessfulAt": "2026-11-12T18:27:11.541Z",
+  "checkedAt": "2026-11-12T23:51:53.520Z",
+  "lastSuccessfulAt": "2026-11-12T23:51:53.520Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
