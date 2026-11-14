@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-14T19:28:09.815Z",
+    "lastSuccessfulAt": "2026-11-14T23:21:42.204Z",
     "items": [
       {
         "home": "Manchester United (W)",
@@ -61,8 +61,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-14T19:28:09.815Z",
-  "lastSuccessfulAt": "2026-11-14T19:28:09.815Z",
+  "checkedAt": "2026-11-14T23:21:42.204Z",
+  "lastSuccessfulAt": "2026-11-14T23:21:42.204Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
