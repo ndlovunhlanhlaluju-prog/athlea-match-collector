@@ -1,35 +1,8 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-15T02:56:05.224Z",
+    "lastSuccessfulAt": "2026-11-15T10:43:22.950Z",
     "items": [
-      {
-        "home": "Tottenham Hotspur (W)",
-        "away": "Everton (W)",
-        "league": "English Women's Super League",
-        "kickoff": "2026-11-14T15:00Z",
-        "url": "https://www.808fubo29.com/football/3052014-tottenham-hotspur--w-vs-everton-fc-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
-      {
-        "home": "Washington Spirit (W)",
-        "away": "Utah Royals (W)",
-        "league": "National Women's Soccer League",
-        "kickoff": "2026-11-14T17:00Z",
-        "url": "https://www.808fubo29.com/football/3112047-washington-spirit-w-vs-utah-royals-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
-      {
-        "home": "Brighton & Hove Albion (W)",
-        "away": "Liverpool (W)",
-        "league": "English Women's Super League",
-        "kickoff": "2026-11-14T17:15Z",
-        "url": "https://www.808fubo29.com/football/3052013-brighton-ha-w-vs-liverpool-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
       {
         "home": "Arsenal (W)",
         "away": "London City Lionesses (W)",
@@ -43,8 +16,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-15T02:56:05.224Z",
-  "lastSuccessfulAt": "2026-11-15T02:56:05.224Z",
+  "checkedAt": "2026-11-15T10:43:22.950Z",
+  "lastSuccessfulAt": "2026-11-15T10:43:22.950Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
