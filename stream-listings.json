@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-16T09:31:45.425Z",
+    "lastSuccessfulAt": "2026-11-16T19:50:06.080Z",
     "items": [
       {
         "home": "BK Häcken (W)",
@@ -61,8 +61,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-16T09:31:45.425Z",
-  "lastSuccessfulAt": "2026-11-16T09:31:45.425Z",
+  "checkedAt": "2026-11-16T19:50:06.080Z",
+  "lastSuccessfulAt": "2026-11-16T19:50:06.080Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
