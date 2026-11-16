@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-15T22:03:53.615Z",
+    "lastSuccessfulAt": "2026-11-16T01:58:06.040Z",
     "items": [
       {
         "home": "Arsenal (W)",
@@ -11,13 +11,67 @@
         "url": "https://www.808fubo29.com/football/3052011-arsenal-w-vs-london-city-lionesses-w.html",
         "availability": "unconfirmed",
         "verification": "index"
+      },
+      {
+        "home": "BK Häcken (W)",
+        "away": "Manchester City (W)",
+        "league": "UEFA Women's Champions League",
+        "kickoff": "2026-11-18T17:45Z",
+        "url": "https://www.808fubo29.com/football/3092384-bk-hacken-w-vs-manchester-city-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "London City Lionesses (W)",
+        "away": "Brighton & Hove Albion (W)",
+        "league": "Subway Players Cup Women",
+        "kickoff": "2026-11-18T19:00Z",
+        "url": "https://www.808fubo29.com/football/3058974-london-city-lionesses-w-vs-brighton-ha-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Manchester United (W)",
+        "away": "Everton (W)",
+        "league": "Subway Players Cup Women",
+        "kickoff": "2026-11-18T19:00Z",
+        "url": "https://www.808fubo29.com/football/3058975-manchester-united-w-vs-everton-fc-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Nottingham Forest (W)",
+        "away": "Liverpool (W)",
+        "league": "Subway Players Cup Women",
+        "kickoff": "2026-11-18T19:00Z",
+        "url": "https://www.808fubo29.com/football/3058976-nottingham-forest-w-vs-liverpool-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Tottenham Hotspur (W)",
+        "away": "Leicester City (W)",
+        "league": "Subway Players Cup Women",
+        "kickoff": "2026-11-18T19:00Z",
+        "url": "https://www.808fubo29.com/football/3058977-tottenham-hotspur--w-vs-leicester-city-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Chelsea (W)",
+        "away": "Paris Saint-Germain (W)",
+        "league": "UEFA Women's Champions League",
+        "kickoff": "2026-11-18T20:00Z",
+        "url": "https://www.808fubo29.com/football/3092386-chelsea-fc-w-vs-paris-saint-germain-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
       }
     ]
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-15T22:03:53.615Z",
-  "lastSuccessfulAt": "2026-11-15T22:03:53.615Z",
+  "checkedAt": "2026-11-16T01:58:06.040Z",
+  "lastSuccessfulAt": "2026-11-16T01:58:06.040Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
