@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-16T19:50:06.080Z",
+    "lastSuccessfulAt": "2026-11-17T02:41:34.769Z",
     "items": [
       {
         "home": "BK Häcken (W)",
@@ -56,13 +56,22 @@
         "url": "https://www.808fubo29.com/football/3092386-chelsea-fc-w-vs-paris-saint-germain-w.html",
         "availability": "unconfirmed",
         "verification": "index"
+      },
+      {
+        "home": "Barcelona (W)",
+        "away": "Servette (W)",
+        "league": "UEFA Women's Champions League",
+        "kickoff": "2026-11-19T20:00Z",
+        "url": "https://www.808fubo29.com/football/3092391-barcelona-w-vs-servette-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
       }
     ]
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-16T19:50:06.080Z",
-  "lastSuccessfulAt": "2026-11-16T19:50:06.080Z",
+  "checkedAt": "2026-11-17T02:41:34.769Z",
+  "lastSuccessfulAt": "2026-11-17T02:41:34.769Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
