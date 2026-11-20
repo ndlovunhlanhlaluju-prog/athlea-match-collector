@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-19T18:12:38.930Z",
+    "lastSuccessfulAt": "2026-11-20T00:43:19.625Z",
     "items": [
       {
         "home": "Barcelona (W)",
@@ -29,13 +29,67 @@
         "url": "https://www.808fubo29.com/football/3052022-london-city-lionesses-w-vs-crystalpalace-w.html",
         "availability": "unconfirmed",
         "verification": "index"
+      },
+      {
+        "home": "Real Sociedad (W)",
+        "away": "Sevilla (W)",
+        "league": "Spanish Liga F Women",
+        "kickoff": "2026-11-22T11:00Z",
+        "url": "https://www.808fubo29.com/football/3057248-real-sociedad-w-vs-sevilla-fc-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Manchester City (W)",
+        "away": "Tottenham Hotspur (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-11-22T12:00Z",
+        "url": "https://www.808fubo29.com/football/3052023-manchester-city-w-vs-tottenham-hotspur--w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Everton (W)",
+        "away": "Brighton & Hove Albion (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-11-22T14:00Z",
+        "url": "https://www.808fubo29.com/football/3052020-everton-fc-w-vs-brighton-ha-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Ipswich Town (W)",
+        "away": "Southampton (W)",
+        "league": "Subway Players Cup Women",
+        "kickoff": "2026-11-22T14:00Z",
+        "url": "https://www.808fubo29.com/football/3058979-ipswich-town-w-vs-southampton-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Sunderland (W)",
+        "away": "Burnley (W)",
+        "league": "Subway Players Cup Women",
+        "kickoff": "2026-11-22T14:00Z",
+        "url": "https://www.808fubo29.com/football/3058982-sunderland-w-vs-burnley-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
+      },
+      {
+        "home": "Arsenal (W)",
+        "away": "West Ham United (W)",
+        "league": "English Women's Super League",
+        "kickoff": "2026-11-22T14:30Z",
+        "url": "https://www.808fubo29.com/football/3052017-arsenal-w-vs-west-ham-united-w.html",
+        "availability": "unconfirmed",
+        "verification": "index"
       }
     ]
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-19T18:12:38.930Z",
-  "lastSuccessfulAt": "2026-11-19T18:12:38.930Z",
+  "checkedAt": "2026-11-20T00:43:19.625Z",
+  "lastSuccessfulAt": "2026-11-20T00:43:19.625Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
