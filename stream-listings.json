@@ -1,17 +1,8 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-20T07:50:38.986Z",
+    "lastSuccessfulAt": "2026-11-20T16:30:56.955Z",
     "items": [
-      {
-        "home": "Barcelona (W)",
-        "away": "Servette (W)",
-        "league": "UEFA Women's Champions League",
-        "kickoff": "2026-11-19T20:00Z",
-        "url": "https://www.808fubo29.com/football/3092391-barcelona-w-vs-servette-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
       {
         "home": "Liverpool (W)",
         "away": "Chelsea (W)",
@@ -88,8 +79,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-20T07:50:38.986Z",
-  "lastSuccessfulAt": "2026-11-20T07:50:38.986Z",
+  "checkedAt": "2026-11-20T16:30:56.955Z",
+  "lastSuccessfulAt": "2026-11-20T16:30:56.955Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
