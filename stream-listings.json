@@ -1,17 +1,8 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-21T23:29:28.431Z",
+    "lastSuccessfulAt": "2026-11-22T03:28:45.666Z",
     "items": [
-      {
-        "home": "Liverpool (W)",
-        "away": "Chelsea (W)",
-        "league": "English Women's Super League",
-        "kickoff": "2026-11-21T12:45Z",
-        "url": "https://www.808fubo29.com/football/3052021-liverpool-w-vs-chelsea-fc-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
       {
         "home": "London City Lionesses (W)",
         "away": "Crystal Palace (W)",
@@ -79,8 +70,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-21T23:29:28.431Z",
-  "lastSuccessfulAt": "2026-11-21T23:29:28.431Z",
+  "checkedAt": "2026-11-22T03:28:45.666Z",
+  "lastSuccessfulAt": "2026-11-22T03:28:45.666Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
