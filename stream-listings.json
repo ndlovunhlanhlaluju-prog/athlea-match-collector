@@ -1,7 +1,7 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-22T11:57:45.692Z",
+    "lastSuccessfulAt": "2026-11-22T19:30:10.171Z",
     "items": [
       {
         "home": "Real Sociedad (W)",
@@ -61,8 +61,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-22T11:57:45.692Z",
-  "lastSuccessfulAt": "2026-11-22T11:57:45.692Z",
+  "checkedAt": "2026-11-22T19:30:10.171Z",
+  "lastSuccessfulAt": "2026-11-22T19:30:10.171Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
