@@ -1,26 +1,8 @@
 {
   "backup": {
     "status": "ok",
-    "lastSuccessfulAt": "2026-11-22T19:30:10.171Z",
+    "lastSuccessfulAt": "2026-11-23T00:28:12.273Z",
     "items": [
-      {
-        "home": "Real Sociedad (W)",
-        "away": "Sevilla (W)",
-        "league": "Spanish Liga F Women",
-        "kickoff": "2026-11-22T11:00Z",
-        "url": "https://www.808fubo29.com/football/3057248-real-sociedad-w-vs-sevilla-fc-w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
-      {
-        "home": "Manchester City (W)",
-        "away": "Tottenham Hotspur (W)",
-        "league": "English Women's Super League",
-        "kickoff": "2026-11-22T12:00Z",
-        "url": "https://www.808fubo29.com/football/3052023-manchester-city-w-vs-tottenham-hotspur--w.html",
-        "availability": "unconfirmed",
-        "verification": "index"
-      },
       {
         "home": "Everton (W)",
         "away": "Brighton & Hove Albion (W)",
@@ -61,8 +43,8 @@
   },
   "primaryStatus": "unavailable",
   "status": "ok",
-  "checkedAt": "2026-11-22T19:30:10.171Z",
-  "lastSuccessfulAt": "2026-11-22T19:30:10.171Z",
+  "checkedAt": "2026-11-23T00:28:12.273Z",
+  "lastSuccessfulAt": "2026-11-23T00:28:12.273Z",
   "transport": "chrome-bridge",
   "source": "https://www.rbtvplus18.rest/football.html",
   "items": []
